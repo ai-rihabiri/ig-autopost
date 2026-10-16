@@ -49,4 +49,4 @@ jobs:
           git config user.name "autopost-bot"
           git config user.email "autopost-bot@users.noreply.github.com"
           git add queue.csv
-          git diff --cached --quiet || (git commit -m "投稿済みを更新" && git push)
+          git diff --cached --quiet || (git commit -m "投稿済みを更新" && git pull --rebase && git push)

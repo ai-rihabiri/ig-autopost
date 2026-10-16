@@ -1,0 +1,49 @@
+name: YouTube自動投稿
+on:
+  schedule:
+    # 1日3本（日本時間 7:28 / 12:16 / 19:43 頃）＋毎回0〜15分のランダム待ち
+    - cron: '28 22 * * *'
+    - cron: '16 3 * * *'
+    - cron: '43 10 * * *'
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: '1 にすると投稿せずに確認だけ'
+        default: '0'
+permissions:
+  contents: write
+concurrency: youtube-post
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    # 定時の自動投稿は、変数 YT_ENABLED を 1 にしたときだけ動く（審査に通るまでは止めておく）
+    if: ${{ github.event_name == 'workflow_dispatch' || vars.YT_ENABLED == '1' }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: |
+            scripts
+            yt_queue.csv
+          sparse-checkout-cone-mode: false
+      - uses: actions/setup-python@v5
+        with: { python-version: '3.12' }
+      - name: ランダム待ち（定時実行のときだけ）
+        if: ${{ github.event_name == 'schedule' }}
+        run: sleep $((RANDOM % 900))
+      - name: 投稿
+        env:
+          YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
+          YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
+          YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
+          YT_PRIVACY: ${{ vars.YT_PRIVACY || 'private' }}
+          MEDIA_BASE_URL: ${{ format('https://raw.githubusercontent.com/{0}/main/videos/', github.repository) }}
+          POSTS_PER_RUN: '1'
+          DRY_RUN: ${{ github.event.inputs.dry_run || '0' }}
+        run: python scripts/post_youtube.py
+      - name: 投稿済みを記録
+        if: ${{ github.event.inputs.dry_run != '1' }}
+        run: |
+          git config user.name "autopost-bot"
+          git config user.email "autopost-bot@users.noreply.github.com"
+          git add yt_queue.csv
+          git diff --cached --quiet || (git commit -m "YouTube投稿済みを更新" && git pull --rebase && git push)
