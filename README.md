@@ -1,11 +1,11 @@
 # Instagram リール自動投稿キット（臨床の疑問【1分解説】用）
 
-GitHub Actions が毎日決まった時間に、`queue.csv` の次の動画を Instagram リールとして投稿します。
+GitHub Actions が毎日7時〜21時に1時間ごと（1日15本）、`queue.csv` の次の動画を Instagram リールとして投稿します。
 パソコンを起動しておく必要はありません。投稿済みの動画は `queue.csv` に自動で記録されます。
 
 ```
 動画(mp4) ──▶ このリポジトリの videos/ フォルダ（公開URL）
-queue.csv ──▶ 毎日19:00に GitHub Actions が起動 ──▶ Instagram API ──▶ リール投稿
+queue.csv ──▶ 毎日7:00〜21:00に1時間ごと（1日15本）GitHub Actions が起動 ──▶ Instagram API ──▶ リール投稿
                               └──▶ queue.csv を「posted」に更新
 ```
 
@@ -54,7 +54,7 @@ Actions →「Instagram自動投稿」→ Run workflow → `dry_run` を `1` で
 
 ## 日々の運用
 - **新しい動画を追加**：mp4 を `videos/` フォルダに追加 → `python scripts/build_queue.py <動画フォルダの親>` で `queue.csv` を更新してアップロード（投稿済みの記録は引き継がれます）
-- **投稿時間を変える**：`.github/workflows/post.yml` の `cron`（UTC表記。日本時間19時＝`0 10 * * *`、朝7時＝`0 22 * * *`）
+- **投稿時間を変える**：`.github/workflows/post.yml` の `cron`（UTC表記。日本時間＝UTC＋9時間。現在は 7〜21時の毎時＝`0 22,23,0-12 * * *`）
 - **1日2本にする**：cron を2行にするか、`POSTS_PER_RUN` を 2 に
 - **投稿順を変える**：`queue.csv` の行を並べ替え（上から順に投稿）
 
