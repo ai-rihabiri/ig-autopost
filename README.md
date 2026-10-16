@@ -4,7 +4,7 @@ GitHub Actions が毎日決まった時間に、`queue.csv` の次の動画を I
 パソコンを起動しておく必要はありません。投稿済みの動画は `queue.csv` に自動で記録されます。
 
 ```
-動画(mp4) ──▶ GitHubリリースに置く（公開URL）
+動画(mp4) ──▶ このリポジトリの videos/ フォルダ（公開URL）
 queue.csv ──▶ 毎日19:00に GitHub Actions が起動 ──▶ Instagram API ──▶ リール投稿
                               └──▶ queue.csv を「posted」に更新
 ```
@@ -26,9 +26,7 @@ Instagramアプリ → プロフィール → 設定 → 「アカウントの�
 ### 3. GitHub にリポジトリを作る
 1. https://github.com/ でアカウント作成 → 新しいリポジトリを **Public** で作成（動画の公開URLを作るため）
 2. このキットの中身（`.github` フォルダを含む全部）をアップロード
-3. 動画をリリースに置く
-   - かんたん：リポジトリの「Releases」→「Create a new release」→ タグ名 `videos` → mp4 をドラッグ＆ドロップ → Publish
-   - まとめて：`./scripts/upload_videos.sh <mp4フォルダ>`（gh CLI）
+3. 動画は `videos/` フォルダに置きます（Claudeが配置済み）
 
 ### 4. 秘密情報と設定を登録
 リポジトリの Settings → Secrets and variables → Actions
@@ -38,7 +36,6 @@ Instagramアプリ → プロフィール → 設定 → 「アカウントの�
 | Secret | `IG_ACCESS_TOKEN` | 手順2のアクセストークン |
 | Secret | `IG_USER_ID` | 手順2のInstagramユーザーID |
 | Secret | `GH_PAT` | トークン自動延長用（下記）。なくても投稿は動く |
-| Variable | `MEDIA_BASE_URL` | `https://github.com/<ユーザー名>/<リポジトリ名>/releases/download/videos/` |
 | Variable | `POSTS_PER_RUN` | 1回の投稿本数（省略時 1） |
 
 `GH_PAT` は GitHub の Settings → Developer settings → Fine-grained tokens で、このリポジトリの **Secrets: Read and write** 権限を付けて作成します。
@@ -56,7 +53,7 @@ Actions →「Instagram自動投稿」→ Run workflow → `dry_run` を `1` で
 `0` で実行すると実際に1本投稿されます。
 
 ## 日々の運用
-- **新しい動画を追加**：mp4 をリリース `videos` に追加 → `python scripts/build_queue.py <動画フォルダの親>` で `queue.csv` を更新してアップロード（投稿済みの記録は引き継がれます）
+- **新しい動画を追加**：mp4 を `videos/` フォルダに追加 → `python scripts/build_queue.py <動画フォルダの親>` で `queue.csv` を更新してアップロード（投稿済みの記録は引き継がれます）
 - **投稿時間を変える**：`.github/workflows/post.yml` の `cron`（UTC表記。日本時間19時＝`0 10 * * *`、朝7時＝`0 22 * * *`）
 - **1日2本にする**：cron を2行にするか、`POSTS_PER_RUN` を 2 に
 - **投稿順を変える**：`queue.csv` の行を並べ替え（上から順に投稿）
