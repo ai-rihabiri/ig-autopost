@@ -55,6 +55,7 @@ def publish(row, uid):
     if True:
         if not MEDIA_BASE: raise SystemExit('MEDIA_BASE_URL が未設定です')
         p = {'media_type': 'REELS', 'video_url': resolve(MEDIA_BASE + urllib.parse.quote(row['video'])), 'caption': cap, 'share_to_feed': 'true'}
+        if os.environ.get('AI_LABEL', '1') == '1': p['is_ai_generated'] = 'true'
         cid = call('POST', f'{uid}/media', p)['id']
     print('  コンテナ作成:', cid); wait(cid)
     return call('POST', f'{uid}/media_publish', {'creation_id': cid})['id']
