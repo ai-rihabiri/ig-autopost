@@ -1,0 +1,19 @@
+name: トークン延長
+on:
+  schedule:
+    - cron: '0 0 1,15 * *'   # 毎月1日・15日
+  workflow_dispatch:
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    if: ${{ vars.IG_LOGIN != 'facebook' }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: 延長してシークレットを更新
+        env:
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          GH_TOKEN: ${{ secrets.GH_PAT }}
+        run: |
+          python scripts/refresh_token.py
+          gh secret set IG_ACCESS_TOKEN < new_token.txt
+          rm new_token.txt
