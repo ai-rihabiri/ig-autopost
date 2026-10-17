@@ -104,11 +104,4 @@ def main():
         with open(QUEUE, 'w', encoding='utf-8', newline='') as fp:
             w = csv.DictWriter(fp, fieldnames=list(rows[0].keys())); w.writeheader(); w.writerows(rows)
 
-if __name__ == '__main__':
-    try: main()
-    except BaseException as e:
-        if not (isinstance(e, SystemExit) and e.code in (None, 0)):
-            import traceback
-            msg = str(e.code) if isinstance(e, SystemExit) else ''.join(traceback.format_exception(e))[-1500:]
-            open('last_error.txt', 'w', encoding='utf-8').write(datetime.datetime.now(JST).strftime('%Y-%m-%d %H:%M\n') + msg + '\n')
-        raise
+if __name__ == '__main__': main()

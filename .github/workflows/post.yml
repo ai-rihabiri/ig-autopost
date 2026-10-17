@@ -48,7 +48,6 @@ jobs:
           git config user.name "autopost-bot"
           git config user.email "autopost-bot@users.noreply.github.com"
           git add queue.csv
-          if [ -f last_error.txt ]; then git add -f last_error.txt; fi
           if git diff --cached --quiet; then echo "記録する変更なし"; exit 0; fi
           git commit -m "投稿済みを更新" && (git push || (git fetch --depth=30 origin main && git rebase origin/main && git push))
           } > g.txt 2>&1; rc=$?
