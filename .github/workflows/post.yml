@@ -34,12 +34,24 @@ jobs:
           DRY_RUN: ${{ github.event.inputs.dry_run || '0' }}
           SCHEDULED: ${{ github.event_name == 'schedule' && '1' || '0' }}
           SLOTS: ${{ vars.IG_SLOTS || '07:13,09:07,11:41,13:22,15:56,17:34,19:18,21:47' }}
-        run: python scripts/post_reel.py
+        run: |
+          set +e
+          python scripts/post_reel.py > out.txt 2>&1; rc=$?
+          cat out.txt
+          if [ $rc -ne 0 ]; then echo "::error::$(tail -c 1000 out.txt | tr '\n' ' ')"; fi
+          exit $rc
       - name: 投稿済みを記録
         if: ${{ always() && github.event.inputs.dry_run != '1' }}
         run: |
+          set +e
+          {
           git config user.name "autopost-bot"
           git config user.email "autopost-bot@users.noreply.github.com"
           git add queue.csv
           if [ -f last_error.txt ]; then git add -f last_error.txt; fi
-          git diff --cached --quiet || (git commit -m "投稿済みを更新" && (git push || (git fetch --depth=30 origin main && git rebase origin/main && git push)))
+          if git diff --cached --quiet; then echo "記録する変更なし"; exit 0; fi
+          git commit -m "投稿済みを更新" && (git push || (git fetch --depth=30 origin main && git rebase origin/main && git push))
+          } > g.txt 2>&1; rc=$?
+          cat g.txt
+          if [ $rc -ne 0 ]; then echo "::error::記録エラー $(tail -c 800 g.txt | tr '\n' ' ')"; fi
+          exit $rc
