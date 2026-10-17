@@ -60,8 +60,33 @@ def publish(row, uid):
     print('  コンテナ作成:', cid); wait(cid)
     return call('POST', f'{uid}/media_publish', {'creation_id': cid})['id']
 
+
+JST = datetime.timezone(datetime.timedelta(hours=9))
+def due_now(rows):
+    """定時実行のとき：今日の予定時刻（毎日0〜14分ずらす）のうち過ぎた数より、今日の投稿数が少なければ投稿する。
+    GitHubの定時実行が抜けても、次の実行で取り戻せる。"""
+    import hashlib
+    slots = [s.strip() for s in os.environ.get('SLOTS', '').split(',') if s.strip()]
+    if not slots: return True
+    now = datetime.datetime.now(JST); today = now.strftime('%Y-%m-%d')
+    due = 0
+    for s in slots:
+        h, m = map(int, s.split(':'))
+        off = int(hashlib.md5(f'{today}{s}'.encode()).hexdigest(), 16) % 15
+        if now >= now.replace(hour=h, minute=m, second=0, microsecond=0) + datetime.timedelta(minutes=off): due += 1
+    times = [r['posted_at'] for r in rows if r['posted_at'][:10] == today]
+    print(f'今日の予定: {due}/{len(slots)} 本が時刻を過ぎています。今日の投稿済み: {len(times)} 本')
+    if len(times) >= due: return False
+    gap = int(os.environ.get('MIN_GAP_MIN', '50'))
+    if times:
+        last = datetime.datetime.strptime(max(times), '%Y-%m-%d %H:%M').replace(tzinfo=JST)
+        if now - last < datetime.timedelta(minutes=gap):
+            print(f'前回の投稿から{gap}分たっていないので、次の実行で投稿します'); return False
+    return True
+
 def main():
     rows = list(csv.DictReader(open(QUEUE, encoding='utf-8')))
+    if os.environ.get('SCHEDULED') == '1' and not due_now(rows): print('今は投稿の時間ではありません'); return
     todo = [r for r in rows if r['status'] != 'posted'][:N]
     if not todo: print('投稿待ちの動画はありません'); return
     if DRY:

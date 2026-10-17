@@ -1,16 +1,9 @@
 name: Instagram自動投稿
 on:
   schedule:
-    # 1日8本（日本時間 7:13 / 9:07 / 11:41 / 13:22 / 15:56 / 17:34 / 19:18 / 21:47 頃）
-    # さらに毎回 0〜15分のランダム待ちを入れて、投稿時刻が毎日ずれるようにしています
-    - cron: '13 22 * * *'
-    - cron: '7 0 * * *'
-    - cron: '41 2 * * *'
-    - cron: '22 4 * * *'
-    - cron: '56 6 * * *'
-    - cron: '34 8 * * *'
-    - cron: '18 10 * * *'
-    - cron: '47 12 * * *'
+    # 20分ごとに起動し、予定時刻を過ぎた分だけ投稿する（GitHubの定時実行が抜けても取り戻せる）
+    # 予定は1日8本：日本時間 7:13 / 9:07 / 11:41 / 13:22 / 15:56 / 17:34 / 19:18 / 21:47（毎日0〜14分ずつずらす）
+    - cron: '4,24,44 22-23,0-13 * * *'
   workflow_dispatch:
     inputs:
       dry_run:
@@ -31,9 +24,6 @@ jobs:
           sparse-checkout-cone-mode: false
       - uses: actions/setup-python@v5
         with: { python-version: '3.12' }
-      - name: ランダム待ち（定時実行のときだけ）
-        if: ${{ github.event_name == 'schedule' }}
-        run: sleep $((RANDOM % 900))
       - name: 投稿
         env:
           IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
@@ -42,6 +32,8 @@ jobs:
           MEDIA_BASE_URL: ${{ vars.MEDIA_BASE_URL || format('https://raw.githubusercontent.com/{0}/main/videos/', github.repository) }}
           POSTS_PER_RUN: ${{ vars.POSTS_PER_RUN || '1' }}
           DRY_RUN: ${{ github.event.inputs.dry_run || '0' }}
+          SCHEDULED: ${{ github.event_name == 'schedule' && '1' || '0' }}
+          SLOTS: ${{ vars.IG_SLOTS || '07:13,09:07,11:41,13:22,15:56,17:34,19:18,21:47' }}
         run: python scripts/post_reel.py
       - name: 投稿済みを記録
         if: ${{ github.event.inputs.dry_run != '1' }}

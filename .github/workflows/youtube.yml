@@ -1,10 +1,8 @@
 name: YouTube自動投稿
 on:
   schedule:
-    # 1日3本（日本時間 7:28 / 12:16 / 19:43 頃）＋毎回0〜15分のランダム待ち
-    - cron: '28 22 * * *'
-    - cron: '16 3 * * *'
-    - cron: '43 10 * * *'
+    # 20分ごとに起動し、予定時刻を過ぎた分だけ投稿する（1日3本：日本時間 7:28 / 12:16 / 19:43、毎日0〜14分ずらす）
+    - cron: '9,29,49 22-23,0-11 * * *'
   workflow_dispatch:
     inputs:
       dry_run:
@@ -27,9 +25,6 @@ jobs:
           sparse-checkout-cone-mode: false
       - uses: actions/setup-python@v5
         with: { python-version: '3.12' }
-      - name: ランダム待ち（定時実行のときだけ）
-        if: ${{ github.event_name == 'schedule' }}
-        run: sleep $((RANDOM % 900))
       - name: 投稿
         env:
           YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
@@ -39,6 +34,9 @@ jobs:
           MEDIA_BASE_URL: ${{ format('https://raw.githubusercontent.com/{0}/main/videos/', github.repository) }}
           POSTS_PER_RUN: '1'
           DRY_RUN: ${{ github.event.inputs.dry_run || '0' }}
+          SCHEDULED: ${{ github.event_name == 'schedule' && '1' || '0' }}
+          SLOTS: ${{ vars.YT_SLOTS || '07:28,12:16,19:43' }}
+          MIN_GAP_MIN: '120'
         run: python scripts/post_youtube.py
       - name: 投稿済みを記録
         if: ${{ github.event.inputs.dry_run != '1' }}
