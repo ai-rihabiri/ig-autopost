@@ -44,4 +44,4 @@ jobs:
           git config user.name "autopost-bot"
           git config user.email "autopost-bot@users.noreply.github.com"
           git add yt_queue.csv
-          git diff --cached --quiet || (git commit -m "YouTube投稿済みを更新" && git pull --rebase && git push)
+          git diff --cached --quiet || (git commit -m "YouTube投稿済みを更新" && (git push || (git fetch --depth=30 origin main && git rebase origin/main && git push)))
