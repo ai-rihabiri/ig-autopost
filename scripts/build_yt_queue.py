@@ -10,9 +10,10 @@ def convert(row):
     theme = m.group(2).strip() if m else os.path.splitext(row['video'])[0]
     body = cap.split('\n\n')[0].split('\n')[1:]
     tags = [l for l in cap.split('\n') if l.startswith('#')]
+    credit = [l for l in cap.split('\n') if 'VOICEVOX' in l]
     title = f'{theme}を1分で解説【セラピスト向け】 #Shorts'
     if len(title) > 100: title = title[:100]
-    desc = '\n'.join(body) + '\n\n' + CLOSING + '\n\n' + (tags[-1] if tags else '') + ' #Shorts'
+    desc = '\n'.join(body) + '\n\n' + CLOSING + ('\n' + '\n'.join(credit) if credit else '') + '\n\n' + (tags[-1] if tags else '') + ' #Shorts'
     return {'no': row['no'], 'video': row['video'], 'title': title.replace('<', '＜').replace('>', '＞'),
             'description': desc.replace('<', '＜').replace('>', '＞')[:4900], 'status': 'pending', 'posted_at': '', 'video_id': ''}
 src = list(csv.DictReader(open('queue.csv', encoding='utf-8')))
