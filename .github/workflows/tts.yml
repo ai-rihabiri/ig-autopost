@@ -1,0 +1,31 @@
+name: ナレーション作成（VOICEVOX）
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency: tts
+jobs:
+  tts:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: |
+            scripts
+            tts
+          sparse-checkout-cone-mode: false
+      - name: VOICEVOXエンジン起動
+        run: docker run -d -p 50021:50021 voicevox/voicevox_engine:cpu-latest
+      - name: 音声を作る
+        run: |
+          set +e
+          python3 scripts/tts_voicevox.py > out.txt 2>&1; rc=$?
+          cat out.txt
+          if [ $rc -ne 0 ]; then echo "::error::$(tail -c 900 out.txt | tr '\n' ' ')"; fi
+          exit $rc
+      - name: 保存
+        run: |
+          git config user.name "autopost-bot"
+          git config user.email "autopost-bot@users.noreply.github.com"
+          git add tts
+          git diff --cached --quiet || (git commit -m "ナレーションを作成" && (git push || (git fetch --depth=30 origin main && git rebase origin/main && git push)))
