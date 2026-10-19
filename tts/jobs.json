@@ -1,42 +1,490 @@
 [
  {
-  "out": "tts/sample/A_aoyama.wav",
-  "text": "1分で解説、迷走神経反射。リハビリ中に、急に患者さんの顔色が悪くなったことはありませんか？迷走神経反射は、痛みや緊張をきっかけに、自律神経のバランスが急に崩れる反応です。",
-  "speaker": "青山龍星",
-  "style": "ノーマル",
-  "speed": 1.1,
-  "intonation": 1.15
- },
- {
-  "out": "tts/sample/B_himari.wav",
-  "text": "1分で解説、迷走神経反射。リハビリ中に、急に患者さんの顔色が悪くなったことはありませんか？迷走神経反射は、痛みや緊張をきっかけに、自律神経のバランスが急に崩れる反応です。",
-  "speaker": "冥鳴ひまり",
-  "style": "ノーマル",
-  "speed": 1.1,
-  "intonation": 1.15
- },
- {
-  "out": "tts/sample/C_no7.wav",
-  "text": "1分で解説、迷走神経反射。リハビリ中に、急に患者さんの顔色が悪くなったことはありませんか？迷走神経反射は、痛みや緊張をきっかけに、自律神経のバランスが急に崩れる反応です。",
-  "speaker": "No.7",
-  "style": "アナウンス",
-  "speed": 1.1,
-  "intonation": 1.15
- },
- {
-  "out": "tts/sample/D_tsumugi.wav",
-  "text": "1分で解説、迷走神経反射。リハビリ中に、急に患者さんの顔色が悪くなったことはありませんか？迷走神経反射は、痛みや緊張をきっかけに、自律神経のバランスが急に崩れる反応です。",
+  "out": "tts/v/vvr/s0_0.wav",
+  "text": "いっぷんでかいせつ、メイソウシンケイハンシャ。",
   "speaker": "春日部つむぎ",
   "style": "ノーマル",
-  "speed": 1.1,
+  "speed": 1.12,
   "intonation": 1.15
  },
  {
-  "out": "tts/sample/E_kurono.wav",
-  "text": "1分で解説、迷走神経反射。リハビリ中に、急に患者さんの顔色が悪くなったことはありませんか？迷走神経反射は、痛みや緊張をきっかけに、自律神経のバランスが急に崩れる反応です。",
-  "speaker": "玄野武宏",
+  "out": "tts/v/vvr/s0_1.wav",
+  "text": "リハビリ中に、急に患者さんの顔色が悪くなったことはありませんか？",
+  "speaker": "春日部つむぎ",
   "style": "ノーマル",
-  "speed": 1.1,
+  "speed": 1.12,
+  "intonation": 1.15
+ },
+ {
+  "out": "tts/v/vvr/s1_0.wav",
+  "text": "メイソウシンケイハンシャは、痛みや緊張、長く立っていることなどをきっかけに、ジリツシンケイのバランスが急に崩れる反応です。",
+  "speaker": "春日部つむぎ",
+  "style": "ノーマル",
+  "speed": 1.12,
+  "intonation": 1.15
+ },
+ {
+  "out": "tts/v/vvr/s2_0.wav",
+  "text": "フクコウカンシンケイが強く働き、心拍数が下がり、血管が広がって血圧が下がるため、脳への血流が減ります。",
+  "speaker": "春日部つむぎ",
+  "style": "ノーマル",
+  "speed": 1.12,
+  "intonation": 1.15
+ },
+ {
+  "out": "tts/v/vvr/s3_0.wav",
+  "text": "あくび、ひやあせ、吐き気、ガンメンソウハク、目の前が暗くなるなどの前ぶれが見られます。",
+  "speaker": "春日部つむぎ",
+  "style": "ノーマル",
+  "speed": 1.12,
+  "intonation": 1.15
+ },
+ {
+  "out": "tts/v/vvr/s4_0.wav",
+  "text": "実は、採血の時だけでなく、リショウやりつい練習、ハイベンの時などにも起こることがあります。",
+  "speaker": "春日部つむぎ",
+  "style": "ノーマル",
+  "speed": 1.12,
+  "intonation": 1.15
+ },
+ {
+  "out": "tts/v/vvr/s5_0.wav",
+  "text": "前ぶれに気づいたら、すぐに動作を中止し、横にして足を高くして、安全を確保します。",
+  "speaker": "春日部つむぎ",
+  "style": "ノーマル",
+  "speed": 1.12,
+  "intonation": 1.15
+ },
+ {
+  "out": "tts/v/vvr/s6_0.wav",
+  "text": "意識、脈拍、血圧、呼吸を確認し、すぐに回復しない時は、ためらわずに医師や看護師へ報告します。",
+  "speaker": "春日部つむぎ",
+  "style": "ノーマル",
+  "speed": 1.12,
+  "intonation": 1.15
+ },
+ {
+  "out": "tts/v/vvr/s7_0.wav",
+  "text": "脱水や長い時間のりついを避け、前ぶれを本人と共有しておくことで、予防につなげましょう。",
+  "speaker": "春日部つむぎ",
+  "style": "ノーマル",
+  "speed": 1.12,
+  "intonation": 1.15
+ },
+ {
+  "out": "tts/v/vvr/s8_0.wav",
+  "text": "臨床の勉強をしながら、エーアイで動画を作り、収益化する。",
+  "speaker": "春日部つむぎ",
+  "style": "ノーマル",
+  "speed": 1.12,
+  "intonation": 1.15
+ },
+ {
+  "out": "tts/v/vvr/s8_1.wav",
+  "text": "ダイホンのカタから自動投稿の設定まで、その全手順をノートで公開しています。",
+  "speaker": "春日部つむぎ",
+  "style": "ノーマル",
+  "speed": 1.12,
+  "intonation": 1.15
+ },
+ {
+  "out": "tts/v/vvr/s8_2.wav",
+  "text": "くわしくは、プロフィールのリンクからどうぞ。",
+  "speaker": "春日部つむぎ",
+  "style": "ノーマル",
+  "speed": 1.12,
+  "intonation": 1.15
+ },
+ {
+  "out": "tts/v/edema/s0_0.wav",
+  "text": "いっぷんでかいせつ、フシュの種類。",
+  "speaker": "春日部つむぎ",
+  "style": "ノーマル",
+  "speed": 1.12,
+  "intonation": 1.15
+ },
+ {
+  "out": "tts/v/edema/s0_1.wav",
+  "text": "むくみを見た時、その原因まで考えられていますか？",
+  "speaker": "春日部つむぎ",
+  "style": "ノーマル",
+  "speed": 1.12,
+  "intonation": 1.15
+ },
+ {
+  "out": "tts/v/edema/s1_0.wav",
+  "text": "フシュは、血管の外の組織に水分がたまった状態で、ゼンシンセイとキョクショセイに分けられます。",
+  "speaker": "春日部つむぎ",
+  "style": "ノーマル",
+  "speed": 1.12,
+  "intonation": 1.15
+ },
+ {
+  "out": "tts/v/edema/s2_0.wav",
+  "text": "ゼンシンセイのフシュは、しんふぜん、じんぞうや肝臓の病気、テイエイヨウなどで起こり、両側に出やすいのが特徴です。",
+  "speaker": "春日部つむぎ",
+  "style": "ノーマル",
+  "speed": 1.12,
+  "intonation": 1.15
+ },
+ {
+  "out": "tts/v/edema/s3_0.wav",
+  "text": "キョクショセイのフシュは、シンブジョウミャクケッセンショウ、リンパフシュ、炎症、長時間同じ姿勢でいることなどで起こります。",
+  "speaker": "春日部つむぎ",
+  "style": "ノーマル",
+  "speed": 1.12,
+  "intonation": 1.15
+ },
+ {
+  "out": "tts/v/edema/s4_0.wav",
+  "text": "実は、指で押して跡が残るアッコンセイフシュと、跡が残りにくいヒアッコンセイフシュがあり、原因を考える手がかりになります。",
+  "speaker": "春日部つむぎ",
+  "style": "ノーマル",
+  "speed": 1.12,
+  "intonation": 1.15
+ },
+ {
+  "out": "tts/v/edema/s5_0.wav",
+  "text": "評価では、左右差、押した跡の深さと戻るまでの時間、シュウケイ、皮膚の色やネッカン、体重の変化を確認します。",
+  "speaker": "春日部つむぎ",
+  "style": "ノーマル",
+  "speed": 1.12,
+  "intonation": 1.15
+ },
+ {
+  "out": "tts/v/edema/s6_0.wav",
+  "text": "片側だけの急な腫れ、痛み、ネッカンがある時は、シンブジョウミャクケッセンショウを疑い、マッサージをせず医師に報告します。",
+  "speaker": "春日部つむぎ",
+  "style": "ノーマル",
+  "speed": 1.12,
+  "intonation": 1.15
+ },
+ {
+  "out": "tts/v/edema/s7_0.wav",
+  "text": "原因に合わせて、キョジョウや運動、圧迫などを選び、全身状態を見ながら対応しましょう。",
+  "speaker": "春日部つむぎ",
+  "style": "ノーマル",
+  "speed": 1.12,
+  "intonation": 1.15
+ },
+ {
+  "out": "tts/v/edema/s8_0.wav",
+  "text": "臨床の勉強をしながら、エーアイで動画を作り、収益化する。",
+  "speaker": "春日部つむぎ",
+  "style": "ノーマル",
+  "speed": 1.12,
+  "intonation": 1.15
+ },
+ {
+  "out": "tts/v/edema/s8_1.wav",
+  "text": "ダイホンのカタから自動投稿の設定まで、その全手順をノートで公開しています。",
+  "speaker": "春日部つむぎ",
+  "style": "ノーマル",
+  "speed": 1.12,
+  "intonation": 1.15
+ },
+ {
+  "out": "tts/v/edema/s8_2.wav",
+  "text": "くわしくは、プロフィールのリンクからどうぞ。",
+  "speaker": "春日部つむぎ",
+  "style": "ノーマル",
+  "speed": 1.12,
+  "intonation": 1.15
+ },
+ {
+  "out": "tts/v/ctmri/s0_0.wav",
+  "text": "いっぷんでかいせつ、シーティーとエムアールアイの使い分け。",
+  "speaker": "春日部つむぎ",
+  "style": "ノーマル",
+  "speed": 1.12,
+  "intonation": 1.15
+ },
+ {
+  "out": "tts/v/ctmri/s0_1.wav",
+  "text": "どちらも体の断面を写す検査ですが、違いを説明できますか？",
+  "speaker": "春日部つむぎ",
+  "style": "ノーマル",
+  "speed": 1.12,
+  "intonation": 1.15
+ },
+ {
+  "out": "tts/v/ctmri/s1_0.wav",
+  "text": "シーティーは、エックス線を使う検査で、短い時間で撮影できるのが特徴です。",
+  "speaker": "春日部つむぎ",
+  "style": "ノーマル",
+  "speed": 1.12,
+  "intonation": 1.15
+ },
+ {
+  "out": "tts/v/ctmri/s2_0.wav",
+  "text": "出血や骨が白く写りやすく、ノウシュッケツが疑われる救急の場面などでよく使われます。",
+  "speaker": "春日部つむぎ",
+  "style": "ノーマル",
+  "speed": 1.12,
+  "intonation": 1.15
+ },
+ {
+  "out": "tts/v/ctmri/s3_0.wav",
+  "text": "エムアールアイは、強い磁石と電波を使う検査で、ヒバクがなく、脳やセキズイ、じんたいなどの軟らかい組織を細かく写せます。",
+  "speaker": "春日部つむぎ",
+  "style": "ノーマル",
+  "speed": 1.12,
+  "intonation": 1.15
+ },
+ {
+  "out": "tts/v/ctmri/s4_0.wav",
+  "text": "実は、ノウコウソクは発症直後のシーティーでは写りにくく、エムアールアイのカクサンキョウチョウガゾウでは早い段階から白く写るとされています。",
+  "speaker": "春日部つむぎ",
+  "style": "ノーマル",
+  "speed": 1.12,
+  "intonation": 1.15
+ },
+ {
+  "out": "tts/v/ctmri/s5_0.wav",
+  "text": "いっぽうで、エムアールアイは撮影に時間がかかり、ペースメーカーなど体の中に金属がある人では、注意が必要です。",
+  "speaker": "春日部つむぎ",
+  "style": "ノーマル",
+  "speed": 1.12,
+  "intonation": 1.15
+ },
+ {
+  "out": "tts/v/ctmri/s6_0.wav",
+  "text": "リハビリでは、画像で損傷の場所と大きさを確かめ、出やすい症状を予測して、評価につなげます。",
+  "speaker": "春日部つむぎ",
+  "style": "ノーマル",
+  "speed": 1.12,
+  "intonation": 1.15
+ },
+ {
+  "out": "tts/v/ctmri/s7_0.wav",
+  "text": "それぞれの検査が得意なことを知って、カルテのガゾウショケンを臨床に生かしましょう。",
+  "speaker": "春日部つむぎ",
+  "style": "ノーマル",
+  "speed": 1.12,
+  "intonation": 1.15
+ },
+ {
+  "out": "tts/v/ctmri/s8_0.wav",
+  "text": "臨床の勉強をしながら、エーアイで動画を作り、収益化する。",
+  "speaker": "春日部つむぎ",
+  "style": "ノーマル",
+  "speed": 1.12,
+  "intonation": 1.15
+ },
+ {
+  "out": "tts/v/ctmri/s8_1.wav",
+  "text": "ダイホンのカタから自動投稿の設定まで、その全手順をノートで公開しています。",
+  "speaker": "春日部つむぎ",
+  "style": "ノーマル",
+  "speed": 1.12,
+  "intonation": 1.15
+ },
+ {
+  "out": "tts/v/ctmri/s8_2.wav",
+  "text": "くわしくは、プロフィールのリンクからどうぞ。",
+  "speaker": "春日部つむぎ",
+  "style": "ノーマル",
+  "speed": 1.12,
+  "intonation": 1.15
+ },
+ {
+  "out": "tts/v/strokeimg/s0_0.wav",
+  "text": "いっぷんでかいせつ、ノウソッチュウの脳画像。",
+  "speaker": "春日部つむぎ",
+  "style": "ノーマル",
+  "speed": 1.12,
+  "intonation": 1.15
+ },
+ {
+  "out": "tts/v/strokeimg/s0_1.wav",
+  "text": "画像を見て、出やすい症状を予測できますか？",
+  "speaker": "春日部つむぎ",
+  "style": "ノーマル",
+  "speed": 1.12,
+  "intonation": 1.15
+ },
+ {
+  "out": "tts/v/strokeimg/s1_0.wav",
+  "text": "画像の評価では、損傷が左右どちらにあるか、どの高さの断面か、どこがどれくらい傷ついているかを確認します。",
+  "speaker": "春日部つむぎ",
+  "style": "ノーマル",
+  "speed": 1.12,
+  "intonation": 1.15
+ },
+ {
+  "out": "tts/v/strokeimg/s2_0.wav",
+  "text": "運動の通り道である皮質セキズイ路が通る、ホウセンカンやナイホウコウキャクが傷つくと、はんたいそくの手足に麻痺が出やすくなります。",
+  "speaker": "春日部つむぎ",
+  "style": "ノーマル",
+  "speed": 1.12,
+  "intonation": 1.15
+ },
+ {
+  "out": "tts/v/strokeimg/s3_0.wav",
+  "text": "多くの人では、左の脳の損傷でシツゴ、右の脳の損傷でヒダリハンソククウカンムシが出やすいとされています。",
+  "speaker": "春日部つむぎ",
+  "style": "ノーマル",
+  "speed": 1.12,
+  "intonation": 1.15
+ },
+ {
+  "out": "tts/v/strokeimg/s4_0.wav",
+  "text": "実は、画像は足元から見上げた向きで表示されることが多く、画面の右側が患者さんの左側になります。",
+  "speaker": "春日部つむぎ",
+  "style": "ノーマル",
+  "speed": 1.12,
+  "intonation": 1.15
+ },
+ {
+  "out": "tts/v/strokeimg/s5_0.wav",
+  "text": "断面の高さは、ソクノウシツの形や、チュウノウ、キョウが写っているかなどを手がかりに判断します。",
+  "speaker": "春日部つむぎ",
+  "style": "ノーマル",
+  "speed": 1.12,
+  "intonation": 1.15
+ },
+ {
+  "out": "tts/v/strokeimg/s6_0.wav",
+  "text": "画像から予測した症状を、実際の評価で確かめることで、見落としを防ぎ、ゴールの設定にもつなげます。",
+  "speaker": "春日部つむぎ",
+  "style": "ノーマル",
+  "speed": 1.12,
+  "intonation": 1.15
+ },
+ {
+  "out": "tts/v/strokeimg/s7_0.wav",
+  "text": "画像はあくまで手がかりの一つです。",
+  "speaker": "春日部つむぎ",
+  "style": "ノーマル",
+  "speed": 1.12,
+  "intonation": 1.15
+ },
+ {
+  "out": "tts/v/strokeimg/s7_1.wav",
+  "text": "目の前の患者さんの動きと合わせて判断しましょう。",
+  "speaker": "春日部つむぎ",
+  "style": "ノーマル",
+  "speed": 1.12,
+  "intonation": 1.15
+ },
+ {
+  "out": "tts/v/strokeimg/s8_0.wav",
+  "text": "臨床の勉強をしながら、エーアイで動画を作り、収益化する。",
+  "speaker": "春日部つむぎ",
+  "style": "ノーマル",
+  "speed": 1.12,
+  "intonation": 1.15
+ },
+ {
+  "out": "tts/v/strokeimg/s8_1.wav",
+  "text": "ダイホンのカタから自動投稿の設定まで、その全手順をノートで公開しています。",
+  "speaker": "春日部つむぎ",
+  "style": "ノーマル",
+  "speed": 1.12,
+  "intonation": 1.15
+ },
+ {
+  "out": "tts/v/strokeimg/s8_2.wav",
+  "text": "くわしくは、プロフィールのリンクからどうぞ。",
+  "speaker": "春日部つむぎ",
+  "style": "ノーマル",
+  "speed": 1.12,
+  "intonation": 1.15
+ },
+ {
+  "out": "tts/v/ot/s0_0.wav",
+  "text": "いっぷんでかいせつ、サギョウリョウホウ。",
+  "speaker": "春日部つむぎ",
+  "style": "ノーマル",
+  "speed": 1.12,
+  "intonation": 1.15
+ },
+ {
+  "out": "tts/v/ot/s0_1.wav",
+  "text": "サギョウリョウホウシが何をする仕事か、一言で説明できますか？",
+  "speaker": "春日部つむぎ",
+  "style": "ノーマル",
+  "speed": 1.12,
+  "intonation": 1.15
+ },
+ {
+  "out": "tts/v/ot/s1_0.wav",
+  "text": "サギョウリョウホウは、人が毎日の生活で行う、意味のある活動である作業を通して、その人らしい生活を支えるリハビリです。",
+  "speaker": "春日部つむぎ",
+  "style": "ノーマル",
+  "speed": 1.12,
+  "intonation": 1.15
+ },
+ {
+  "out": "tts/v/ot/s2_0.wav",
+  "text": "作業には、食事や着替え、トイレなどの身の回りのことから、家事、仕事、趣味、人との交流まで含まれます。",
+  "speaker": "春日部つむぎ",
+  "style": "ノーマル",
+  "speed": 1.12,
+  "intonation": 1.15
+ },
+ {
+  "out": "tts/v/ot/s3_0.wav",
+  "text": "体の機能だけでなく、心の状態や認知機能、生活の環境まで、幅広い面から関わるのが特徴です。",
+  "speaker": "春日部つむぎ",
+  "style": "ノーマル",
+  "speed": 1.12,
+  "intonation": 1.15
+ },
+ {
+  "out": "tts/v/ot/s4_0.wav",
+  "text": "実は、サギョウリョウホウは体の障害だけでなく、セイシンカや発達の分野、高齢者のカイゴヨボウなどでも行われています。",
+  "speaker": "春日部つむぎ",
+  "style": "ノーマル",
+  "speed": 1.12,
+  "intonation": 1.15
+ },
+ {
+  "out": "tts/v/ot/s5_0.wav",
+  "text": "評価では、その人が何に困り、何をしたいのかを聞き取り、実際の動作を観察します。",
+  "speaker": "春日部つむぎ",
+  "style": "ノーマル",
+  "speed": 1.12,
+  "intonation": 1.15
+ },
+ {
+  "out": "tts/v/ot/s6_0.wav",
+  "text": "動作の練習だけでなく、道具の工夫や環境の調整、家族への助言なども行います。",
+  "speaker": "春日部つむぎ",
+  "style": "ノーマル",
+  "speed": 1.12,
+  "intonation": 1.15
+ },
+ {
+  "out": "tts/v/ot/s7_0.wav",
+  "text": "したいことができる毎日を、本人と一緒に取り戻していきましょう。",
+  "speaker": "春日部つむぎ",
+  "style": "ノーマル",
+  "speed": 1.12,
+  "intonation": 1.15
+ },
+ {
+  "out": "tts/v/ot/s8_0.wav",
+  "text": "臨床の勉強をしながら、エーアイで動画を作り、収益化する。",
+  "speaker": "春日部つむぎ",
+  "style": "ノーマル",
+  "speed": 1.12,
+  "intonation": 1.15
+ },
+ {
+  "out": "tts/v/ot/s8_1.wav",
+  "text": "ダイホンのカタから自動投稿の設定まで、その全手順をノートで公開しています。",
+  "speaker": "春日部つむぎ",
+  "style": "ノーマル",
+  "speed": 1.12,
+  "intonation": 1.15
+ },
+ {
+  "out": "tts/v/ot/s8_2.wav",
+  "text": "くわしくは、プロフィールのリンクからどうぞ。",
+  "speaker": "春日部つむぎ",
+  "style": "ノーマル",
+  "speed": 1.12,
   "intonation": 1.15
  }
 ]

@@ -7,6 +7,7 @@ for i in range(120):
     except Exception: time.sleep(3)
 sp = json.load(urllib.request.urlopen(B + '/speakers'))
 ids = {(s['name'], st['name']): st['id'] for s in sp for st in s['styles']}
+uuid = {s['name']: s['speaker_uuid'] for s in sp}
 open('tts/speakers.txt', 'w', encoding='utf-8').write('\n'.join(f'{n}\t{s}\t{i}' for (n, s), i in sorted(ids.items(), key=lambda x: x[1])))
 for j in json.load(open('tts/jobs.json', encoding='utf-8')):
     sid = j.get('id') or ids[(j['speaker'], j.get('style', 'ノーマル'))]
@@ -15,3 +16,9 @@ for j in json.load(open('tts/jobs.json', encoding='utf-8')):
     q['prePhonemeLength'] = .05; q['postPhonemeLength'] = .1
     w = urllib.request.urlopen(urllib.request.Request(B + '/synthesis?speaker=' + str(sid), data=json.dumps(q).encode(), headers={'Content-Type': 'application/json'})).read()
     os.makedirs(os.path.dirname(j['out']), exist_ok=True); open(j['out'], 'wb').write(w); print('ok', j['out'], sid)
+
+used = sorted({j['speaker'] for j in json.load(open('tts/jobs.json', encoding='utf-8')) if 'speaker' in j})
+for n in used:
+    info = json.load(urllib.request.urlopen(B + '/speaker_info?' + urllib.parse.urlencode({'speaker_uuid': uuid[n]})))
+    open(f'tts/policy_{n}.md', 'w', encoding='utf-8').write(info.get('policy', ''))
+    print('policy saved', n)
