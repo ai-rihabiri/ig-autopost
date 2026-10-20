@@ -86,6 +86,7 @@ def due_now(rows):
 
 def main():
     rows = list(csv.DictReader(open(QUEUE, encoding='utf-8')))
+    if os.environ.get('SCHEDULED') == '1' and os.path.exists('scripts/PAUSE'): print('一時停止中（scripts/PAUSE があります）'); return
     if os.environ.get('SCHEDULED') == '1' and not due_now(rows): print('今は投稿の時間ではありません'); return
     todo = [r for r in rows if r['status'] != 'posted'][:N]
     if not todo: print('投稿待ちの動画はありません'); return
