@@ -1,12 +1,17 @@
 name: ナレーション作成（VOICEVOX）
 on:
   workflow_dispatch:
+    inputs:
+      jobs:
+        description: '依頼ファイル'
+        default: 'tts/jobs.json'
 permissions:
   contents: write
 concurrency: tts
 jobs:
   tts:
     runs-on: ubuntu-latest
+    timeout-minutes: 300
     steps:
       - uses: actions/checkout@v4
         with:
@@ -14,12 +19,14 @@ jobs:
             scripts
             tts
           sparse-checkout-cone-mode: false
+      - name: ffmpeg
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
       - name: VOICEVOXエンジン起動
         run: docker run -d -p 50021:50021 voicevox/voicevox_engine:cpu-latest
       - name: 音声を作る
         run: |
           set +e
-          python3 scripts/tts_voicevox.py > out.txt 2>&1; rc=$?
+          python3 scripts/tts_voicevox.py ${{ github.event.inputs.jobs || 'tts/jobs.json' }} > out.txt 2>&1; rc=$?
           cat out.txt
           if [ $rc -ne 0 ]; then echo "::error::$(tail -c 900 out.txt | tr '\n' ' ')"; fi
           exit $rc
