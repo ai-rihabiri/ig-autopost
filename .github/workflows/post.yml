@@ -54,3 +54,26 @@ jobs:
           cat g.txt
           if [ $rc -ne 0 ]; then echo "::error::記録エラー $(tail -c 800 g.txt | tr '\n' ' ')"; fi
           exit $rc
+      - name: ストーリー投稿（投稿した直後のリールから）
+        if: ${{ github.event.inputs.dry_run != '1' }}
+        env:
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+          IG_LOGIN: ${{ vars.IG_LOGIN || 'instagram' }}
+          MEDIA_BASE_URL: ${{ vars.MEDIA_BASE_URL || format('https://raw.githubusercontent.com/{0}/main/videos/', github.repository) }}
+          STORY_BASE_URL: ${{ format('https://raw.githubusercontent.com/{0}/main/', github.repository) }}
+        run: |
+          set +e
+          {
+          git pull -q --rebase || true
+          command -v ffmpeg >/dev/null || (sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg)
+          python scripts/make_story.py || exit 1
+          [ -f story_target.txt ] || exit 0
+          git add --sparse stories && git commit -qm "ストーリー用動画" && (git push -q || (git fetch --depth=30 origin main && git rebase origin/main && git push -q)) || exit 1
+          sleep 20
+          python scripts/post_story.py || exit 1
+          git add queue.csv && git commit -qm "ストーリー投稿を記録" && (git push -q || (git fetch --depth=30 origin main && git rebase origin/main && git push -q))
+          } > s.txt 2>&1; rc=$?
+          cat s.txt
+          if [ $rc -ne 0 ]; then echo "::error::ストーリー $(tail -c 900 s.txt | tr '\n' ' ')"; fi
+          exit 0
