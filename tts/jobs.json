@@ -1,450 +1,970 @@
 [
- {
-  "out": "tts/v/contr/s0_0.wav",
-  "text": "いっぷんでかいせつ、コウシュク。",
-  "speaker": "春日部つむぎ",
-  "style": "ノーマル",
-  "speed": 1.12,
-  "intonation": 1.15
- },
- {
-  "out": "tts/v/contr/s0_1.wav",
-  "text": "関節が硬くなって動かない状態、その原因を説明できますか？",
-  "speaker": "春日部つむぎ",
-  "style": "ノーマル",
-  "speed": 1.12,
-  "intonation": 1.15
- },
- {
-  "out": "tts/v/contr/s1_0.wav",
-  "text": "コウシュクは、関節のまわりの皮膚、きん肉、腱、カンセツホウなどが硬くなり、関節の動く範囲が狭くなった状態です。",
-  "speaker": "春日部つむぎ",
-  "style": "ノーマル",
-  "speed": 1.12,
-  "intonation": 1.15
- },
- {
-  "out": "tts/v/contr/s2_0.wav",
-  "text": "長い間動かさないこと、痛み、麻痺、むくみ、ヤケドの後の傷あとなどが原因になります。",
-  "speaker": "春日部つむぎ",
-  "style": "ノーマル",
-  "speed": 1.12,
-  "intonation": 1.15
- },
- {
-  "out": "tts/v/contr/s3_0.wav",
-  "text": "キョウチョクは、関節そのものの骨や軟骨が原因で動かなくなった状態で、コウシュクとは区別されます。",
-  "speaker": "春日部つむぎ",
-  "style": "ノーマル",
-  "speed": 1.12,
-  "intonation": 1.15
- },
- {
-  "out": "tts/v/contr/s4_0.wav",
-  "text": "実は、関節を動かさないでいると、数日からすうしゅうかんほどで、きん肉やカンセツホウが硬くなり始めるとされています。",
-  "speaker": "春日部つむぎ",
-  "style": "ノーマル",
-  "speed": 1.12,
-  "intonation": 1.15
- },
- {
-  "out": "tts/v/contr/s5_0.wav",
-  "text": "評価では、カンセツカドウイキを測定し、最後に感じる抵抗の感覚である、エンドフィールも確認します。",
-  "speaker": "春日部つむぎ",
-  "style": "ノーマル",
-  "speed": 1.12,
-  "intonation": 1.15
- },
- {
-  "out": "tts/v/contr/s6_0.wav",
-  "text": "予防と改善には、早めに体を動かすこと、カンセツカドウイキ運動、ストレッチ、良い姿勢を保つことが大切です。",
-  "speaker": "春日部つむぎ",
-  "style": "ノーマル",
-  "speed": 1.12,
-  "intonation": 1.15
- },
- {
-  "out": "tts/v/contr/s7_0.wav",
-  "text": "一度できたコウシュクは、改善に時間がかかります。",
-  "speaker": "春日部つむぎ",
-  "style": "ノーマル",
-  "speed": 1.12,
-  "intonation": 1.15
- },
- {
-  "out": "tts/v/contr/s7_1.wav",
-  "text": "毎日少しずつ動かして、予防を第一に考えましょう。",
-  "speaker": "春日部つむぎ",
-  "style": "ノーマル",
-  "speed": 1.12,
-  "intonation": 1.15
- },
- {
-  "out": "tts/v/contr/s8_0.wav",
-  "text": "臨床の勉強をしながら、エーアイで動画を作り、収益化する。",
-  "speaker": "春日部つむぎ",
-  "style": "ノーマル",
-  "speed": 1.12,
-  "intonation": 1.15
- },
- {
-  "out": "tts/v/contr/s8_1.wav",
-  "text": "この動画のサクセイホウホウ、使用しているエーアイ、収益化の方法を知りたい方は、プロフィールリンクまで。",
-  "speaker": "春日部つむぎ",
-  "style": "ノーマル",
-  "speed": 1.12,
-  "intonation": 1.15
- },
- {
-  "out": "tts/v/acute/s0_0.wav",
-  "text": "いっぷんでかいせつ、ノウソッチュウキュウセイキの留意点。",
-  "speaker": "春日部つむぎ",
-  "style": "ノーマル",
-  "speed": 1.12,
-  "intonation": 1.15
- },
- {
-  "out": "tts/v/acute/s0_1.wav",
-  "text": "ノウコウソクとノウシュッケツで、注意する点の違いを説明できますか？",
-  "speaker": "春日部つむぎ",
-  "style": "ノーマル",
-  "speed": 1.12,
-  "intonation": 1.15
- },
- {
-  "out": "tts/v/acute/s1_0.wav",
-  "text": "キュウセイキは症状が悪化しやすい時期のため、意識、麻痺、血圧などの変化を、こまめに確認します。",
-  "speaker": "春日部つむぎ",
-  "style": "ノーマル",
-  "speed": 1.12,
-  "intonation": 1.15
- },
- {
-  "out": "tts/v/acute/s2_0.wav",
-  "text": "ノウコウソクでは、脳の血流を保つため、血圧は高めに管理されることが多く、急な血圧の低下に注意します。",
-  "speaker": "春日部つむぎ",
-  "style": "ノーマル",
-  "speed": 1.12,
-  "intonation": 1.15
- },
- {
-  "out": "tts/v/acute/s3_0.wav",
-  "text": "ノウシュッケツでは、出血が広がるのを防ぐため、血圧は低めに管理されることが多く、血圧の上昇に注意します。",
-  "speaker": "春日部つむぎ",
-  "style": "ノーマル",
-  "speed": 1.12,
-  "intonation": 1.15
- },
- {
-  "out": "tts/v/acute/s4_0.wav",
-  "text": "実は、同じノウソッチュウでもビョウケイによって血圧の目標が違うため、医師が指示する範囲を必ず確認します。",
-  "speaker": "春日部つむぎ",
-  "style": "ノーマル",
-  "speed": 1.12,
-  "intonation": 1.15
- },
- {
-  "out": "tts/v/acute/s5_0.wav",
-  "text": "リショウの前後では、イシキレベル、麻痺の悪化、頭痛、吐き気、血圧や脈拍の変化を確認します。",
-  "speaker": "春日部つむぎ",
-  "style": "ノーマル",
-  "speed": 1.12,
-  "intonation": 1.15
- },
- {
-  "out": "tts/v/acute/s6_0.wav",
-  "text": "症状が悪化した時は、すぐにリショウを中止し、医師や看護師に報告します。",
-  "speaker": "春日部つむぎ",
-  "style": "ノーマル",
-  "speed": 1.12,
-  "intonation": 1.15
- },
- {
-  "out": "tts/v/acute/s7_0.wav",
-  "text": "早期からのリハビリは大切ですが、ビョウケイと全身状態に合わせて、安全に進めましょう。",
-  "speaker": "春日部つむぎ",
-  "style": "ノーマル",
-  "speed": 1.12,
-  "intonation": 1.15
- },
- {
-  "out": "tts/v/acute/s8_0.wav",
-  "text": "臨床の勉強をしながら、エーアイで動画を作り、収益化する。",
-  "speaker": "春日部つむぎ",
-  "style": "ノーマル",
-  "speed": 1.12,
-  "intonation": 1.15
- },
- {
-  "out": "tts/v/acute/s8_1.wav",
-  "text": "この動画のサクセイホウホウ、使用しているエーアイ、収益化の方法を知りたい方は、プロフィールリンクまで。",
-  "speaker": "春日部つむぎ",
-  "style": "ノーマル",
-  "speed": 1.12,
-  "intonation": 1.15
- },
- {
-  "out": "tts/v/aspn/s0_0.wav",
-  "text": "いっぷんでかいせつ、ゴエンセイハイエン。",
-  "speaker": "春日部つむぎ",
-  "style": "ノーマル",
-  "speed": 1.12,
-  "intonation": 1.15
- },
- {
-  "out": "tts/v/aspn/s0_1.wav",
-  "text": "むせがないのに、肺炎をくり返す患者さんはいませんか？",
-  "speaker": "春日部つむぎ",
-  "style": "ノーマル",
-  "speed": 1.12,
-  "intonation": 1.15
- },
- {
-  "out": "tts/v/aspn/s1_0.wav",
-  "text": "ゴエンセイハイエンは、食べ物やダエキ、胃の内容物などが気管に入り、細菌が肺で炎症を起こす肺炎です。",
-  "speaker": "春日部つむぎ",
-  "style": "ノーマル",
-  "speed": 1.12,
-  "intonation": 1.15
- },
- {
-  "out": "tts/v/aspn/s2_0.wav",
-  "text": "コウレイのカタや、ノウソッチュウの後、ネタキリのカタなど、飲み込む力やせきの力が落ちた人に起こりやすくなります。",
-  "speaker": "春日部つむぎ",
-  "style": "ノーマル",
-  "speed": 1.12,
-  "intonation": 1.15
- },
- {
-  "out": "tts/v/aspn/s3_0.wav",
-  "text": "発熱、せき、タンの増加に加えて、元気がない、食欲がないなど、はっきりしない症状で気づくこともあります。",
-  "speaker": "春日部つむぎ",
-  "style": "ノーマル",
-  "speed": 1.12,
-  "intonation": 1.15
- },
- {
-  "out": "tts/v/aspn/s4_0.wav",
-  "text": "実は、むせないゴエンであるフケンセイゴエンがあり、眠っている間にダエキをゴエンしていることもあります。",
-  "speaker": "春日部つむぎ",
-  "style": "ノーマル",
-  "speed": 1.12,
-  "intonation": 1.15
- },
- {
-  "out": "tts/v/aspn/s5_0.wav",
-  "text": "予防には、コウクウケア、食事の姿勢、ショクケイタイの調整、食後すぐに横にならないことが大切です。",
-  "speaker": "春日部つむぎ",
-  "style": "ノーマル",
-  "speed": 1.12,
-  "intonation": 1.15
- },
- {
-  "out": "tts/v/aspn/s6_0.wav",
-  "text": "リハビリでは、飲み込みの練習に加えて、せきをする力や、体を起こしている時間を増やすことも大切です。",
-  "speaker": "春日部つむぎ",
-  "style": "ノーマル",
-  "speed": 1.12,
-  "intonation": 1.15
- },
- {
-  "out": "tts/v/aspn/s7_0.wav",
-  "text": "口の中を清潔に保ち、食べる姿勢を整えて、肺炎をくり返さないように支えましょう。",
-  "speaker": "春日部つむぎ",
-  "style": "ノーマル",
-  "speed": 1.12,
-  "intonation": 1.15
- },
- {
-  "out": "tts/v/aspn/s8_0.wav",
-  "text": "臨床の勉強をしながら、エーアイで動画を作り、収益化する。",
-  "speaker": "春日部つむぎ",
-  "style": "ノーマル",
-  "speed": 1.12,
-  "intonation": 1.15
- },
- {
-  "out": "tts/v/aspn/s8_1.wav",
-  "text": "この動画のサクセイホウホウ、使用しているエーアイ、収益化の方法を知りたい方は、プロフィールリンクまで。",
-  "speaker": "春日部つむぎ",
-  "style": "ノーマル",
-  "speed": 1.12,
-  "intonation": 1.15
- },
- {
-  "out": "tts/v/afo/s0_0.wav",
-  "text": "いっぷんでかいせつ、タンカシソウグ。",
-  "speaker": "春日部つむぎ",
-  "style": "ノーマル",
-  "speed": 1.12,
-  "intonation": 1.15
- },
- {
-  "out": "tts/v/afo/s0_1.wav",
-  "text": "カタマヒの歩行で、つま先が引っかかる患者さんはいませんか？",
-  "speaker": "春日部つむぎ",
-  "style": "ノーマル",
-  "speed": 1.12,
-  "intonation": 1.15
- },
- {
-  "out": "tts/v/afo/s1_0.wav",
-  "text": "タンカシソウグは、すねから足までを支える装具で、英語の頭文字をとって、エーエフオーとも呼ばれます。",
-  "speaker": "春日部つむぎ",
-  "style": "ノーマル",
-  "speed": 1.12,
-  "intonation": 1.15
- },
- {
-  "out": "tts/v/afo/s2_0.wav",
-  "text": "足首を安定させ、歩く時につま先が下がるのを防いで、つまずきを減らす目的で使われます。",
-  "speaker": "春日部つむぎ",
-  "style": "ノーマル",
-  "speed": 1.12,
-  "intonation": 1.15
- },
- {
-  "out": "tts/v/afo/s3_0.wav",
-  "text": "プラスチック製のクツベラ型や、金属のシチュウ付き、足首が動くツギテ付きのものなど、さまざまな種類があります。",
-  "speaker": "春日部つむぎ",
-  "style": "ノーマル",
-  "speed": 1.12,
-  "intonation": 1.15
- },
- {
-  "out": "tts/v/afo/s4_0.wav",
-  "text": "実は、足首の角度の設定によって、膝の曲がり方や、体重の乗せやすさも変わります。",
-  "speaker": "春日部つむぎ",
-  "style": "ノーマル",
-  "speed": 1.12,
-  "intonation": 1.15
- },
- {
-  "out": "tts/v/afo/s5_0.wav",
-  "text": "評価では、歩く時のつまずき、膝の伸びすぎや曲がりすぎ、皮膚の赤みや痛みを確認します。",
-  "speaker": "春日部つむぎ",
-  "style": "ノーマル",
-  "speed": 1.12,
-  "intonation": 1.15
- },
- {
-  "out": "tts/v/afo/s6_0.wav",
-  "text": "装具を外した後は、皮膚の赤みがサンジップンほどで消えるかを確認し、残る時は調整を相談します。",
-  "speaker": "春日部つむぎ",
-  "style": "ノーマル",
-  "speed": 1.12,
-  "intonation": 1.15
- },
- {
-  "out": "tts/v/afo/s7_0.wav",
-  "text": "体の状態は変わっていくので、定期的に、装具が合っているかを見直しましょう。",
-  "speaker": "春日部つむぎ",
-  "style": "ノーマル",
-  "speed": 1.12,
-  "intonation": 1.15
- },
- {
-  "out": "tts/v/afo/s8_0.wav",
-  "text": "臨床の勉強をしながら、エーアイで動画を作り、収益化する。",
-  "speaker": "春日部つむぎ",
-  "style": "ノーマル",
-  "speed": 1.12,
-  "intonation": 1.15
- },
- {
-  "out": "tts/v/afo/s8_1.wav",
-  "text": "この動画のサクセイホウホウ、使用しているエーアイ、収益化の方法を知りたい方は、プロフィールリンクまで。",
-  "speaker": "春日部つむぎ",
-  "style": "ノーマル",
-  "speed": 1.12,
-  "intonation": 1.15
- },
- {
-  "out": "tts/v/toilet/s0_0.wav",
-  "text": "いっぷんでかいせつ、トイレ動作。",
-  "speaker": "春日部つむぎ",
-  "style": "ノーマル",
-  "speed": 1.12,
-  "intonation": 1.15
- },
- {
-  "out": "tts/v/toilet/s0_1.wav",
-  "text": "トイレの自立が、生活に大きく影響することを知っていますか？",
-  "speaker": "春日部つむぎ",
-  "style": "ノーマル",
-  "speed": 1.12,
-  "intonation": 1.15
- },
- {
-  "out": "tts/v/toilet/s1_0.wav",
-  "text": "トイレ動作は、移動、ズボンのアゲオロシ、便座への座り立ち、お尻をふく、水を流すなど、多くの動作の組み合わせです。",
-  "speaker": "春日部つむぎ",
-  "style": "ノーマル",
-  "speed": 1.12,
-  "intonation": 1.15
- },
- {
-  "out": "tts/v/toilet/s2_0.wav",
-  "text": "さらに、ニョウイやベンイを感じる、間に合うように移動する、場所を覚えているなど、認知の働きも必要です。",
-  "speaker": "春日部つむぎ",
-  "style": "ノーマル",
-  "speed": 1.12,
-  "intonation": 1.15
- },
- {
-  "out": "tts/v/toilet/s3_0.wav",
-  "text": "自宅で暮らせるかどうかに大きく関わり、本人のソンゲンにも関わる、とても大切な動作です。",
-  "speaker": "春日部つむぎ",
-  "style": "ノーマル",
-  "speed": 1.12,
-  "intonation": 1.15
- },
- {
-  "out": "tts/v/toilet/s4_0.wav",
-  "text": "実は、立ったままのズボンのアゲオロシは転びやすい場面の一つとされ、手すりや壁を使う工夫が役立ちます。",
-  "speaker": "春日部つむぎ",
-  "style": "ノーマル",
-  "speed": 1.12,
-  "intonation": 1.15
- },
- {
-  "out": "tts/v/toilet/s5_0.wav",
-  "text": "評価では、どのコウテイでつまずいているかを、一つずつ分けて確認します。",
-  "speaker": "春日部つむぎ",
-  "style": "ノーマル",
-  "speed": 1.12,
-  "intonation": 1.15
- },
- {
-  "out": "tts/v/toilet/s6_0.wav",
-  "text": "手すり、ホコウベンザ、ポータブルトイレ、服の工夫など、環境と道具の調整も行います。",
-  "speaker": "春日部つむぎ",
-  "style": "ノーマル",
-  "speed": 1.12,
-  "intonation": 1.15
- },
- {
-  "out": "tts/v/toilet/s7_0.wav",
-  "text": "できるコウテイを増やしながら、安心してトイレに行ける生活を支えましょう。",
-  "speaker": "春日部つむぎ",
-  "style": "ノーマル",
-  "speed": 1.12,
-  "intonation": 1.15
- },
- {
-  "out": "tts/v/toilet/s8_0.wav",
-  "text": "臨床の勉強をしながら、エーアイで動画を作り、収益化する。",
-  "speaker": "春日部つむぎ",
-  "style": "ノーマル",
-  "speed": 1.12,
-  "intonation": 1.15
- },
- {
-  "out": "tts/v/toilet/s8_1.wav",
-  "text": "この動画のサクセイホウホウ、使用しているエーアイ、収益化の方法を知りたい方は、プロフィールリンクまで。",
-  "speaker": "春日部つむぎ",
-  "style": "ノーマル",
-  "speed": 1.12,
-  "intonation": 1.15
- }
+{
+"out": "tts/v/cvx/s0_0.wav",
+"text": "いっぷんでかいせつ、オウトツの法則。",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+},
+{
+"out": "tts/v/cvx/s0_1.wav",
+"text": "関節を動かす時、骨の表面がどう動くか説明できますか？",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+},
+{
+"out": "tts/v/cvx/s1_0.wav",
+"text": "関節は、トツのカタチをした骨と、オウのカタチをした骨が向かい合って、できています。",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+},
+{
+"out": "tts/v/cvx/s2_0.wav",
+"text": "トツガワの骨が動く時は、骨が転がる方向と反対に、関節面がすべります。",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+},
+{
+"out": "tts/v/cvx/s3_0.wav",
+"text": "オウガワの骨が動く時は、骨が転がる方向と同じ方向に、関節面がすべります。",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+},
+{
+"out": "tts/v/cvx/s4_0.wav",
+"text": "実は、肩を上げる時、ジョウワンコツの頭は下にすべることで、関節の中で上にぶつかりにくくなっています。",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+},
+{
+"out": "tts/v/cvx/s5_0.wav",
+"text": "評価では、関節の動きの硬さや、すべりの出にくい方向を、フクウンドウとして確認します。",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+},
+{
+"out": "tts/v/cvx/s6_0.wav",
+"text": "治療では、この法則をもとに、すべらせる方向を考えて、関節モビライゼーションを行います。",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+},
+{
+"out": "tts/v/cvx/s7_0.wav",
+"text": "骨の形を知ると、関節の動きが見えてきます。",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+},
+{
+"out": "tts/v/cvx/s7_1.wav",
+"text": "転がりとすべりを、セットで考えましょう。",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+},
+{
+"out": "tts/v/cvx/s8_0.wav",
+"text": "臨床の勉強をしながら、エーアイで動画を作り、収益化する。",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+},
+{
+"out": "tts/v/cvx/s8_1.wav",
+"text": "この動画のサクセイホウホウ、使用しているエーアイ、収益化の方法を知りたい方は、プロフィールリンクまで。",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+},
+{
+"out": "tts/v/musc/s0_0.wav",
+"text": "いっぷんでかいせつ、きんの収縮様式。",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+},
+{
+"out": "tts/v/musc/s0_1.wav",
+"text": "トウシャクセイ、キュウシンセイ、エンシンセイの違いを説明できますか？",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+},
+{
+"out": "tts/v/musc/s1_0.wav",
+"text": "きん肉の収縮は、きん肉の長さの変わり方によって、大きく3つに分けられます。",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+},
+{
+"out": "tts/v/musc/s2_0.wav",
+"text": "トウシャクセイ収縮は、きん肉の長さが変わらない収縮で、壁を押すような、関節が動かない運動です。",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+},
+{
+"out": "tts/v/musc/s3_0.wav",
+"text": "キュウシンセイ収縮は、きん肉が縮みながら力を出す収縮、エンシンセイ収縮は、きん肉が伸ばされながら力を出す収縮です。",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+},
+{
+"out": "tts/v/musc/s4_0.wav",
+"text": "実は、エンシンセイ収縮は大きな力を出せるいっぽうで、慣れない運動では、きん肉痛が起こりやすいとされています。",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+},
+{
+"out": "tts/v/musc/s5_0.wav",
+"text": "例えば、椅子から立ち上がる時は、太ももの前のきん肉がキュウシンセイに、座る時はエンシンセイに働きます。",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+},
+{
+"out": "tts/v/musc/s6_0.wav",
+"text": "痛みが強い時期は、トウシャクセイ運動から始めるなど、目的や時期に合わせて使い分けます。",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+},
+{
+"out": "tts/v/musc/s7_0.wav",
+"text": "同じきん肉でも、収縮の仕方で役割が変わります。",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+},
+{
+"out": "tts/v/musc/s7_1.wav",
+"text": "動作の中で考えてみましょう。",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+},
+{
+"out": "tts/v/musc/s8_0.wav",
+"text": "臨床の勉強をしながら、エーアイで動画を作り、収益化する。",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+},
+{
+"out": "tts/v/musc/s8_1.wav",
+"text": "この動画のサクセイホウホウ、使用しているエーアイ、収益化の方法を知りたい方は、プロフィールリンクまで。",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+},
+{
+"out": "tts/v/roll/s0_0.wav",
+"text": "いっぷんでかいせつ、ネガエリ動作。",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+},
+{
+"out": "tts/v/roll/s0_1.wav",
+"text": "ネガエリは、体のどこから動き出すか説明できますか？",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+},
+{
+"out": "tts/v/roll/s1_0.wav",
+"text": "ネガエリは、あおむけから横向きになる動作で、起き上がりや、床ずれの予防にもつながる大切な動作です。",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+},
+{
+"out": "tts/v/roll/s2_0.wav",
+"text": "一般的には、頭と首が先に動き、肩、体幹、骨盤の順に、ねじれながら回っていきます。",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+},
+{
+"out": "tts/v/roll/s3_0.wav",
+"text": "足から動き出し、骨盤から回るパターンもあり、人によって動き方はさまざまです。",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+},
+{
+"out": "tts/v/roll/s4_0.wav",
+"text": "実は、ネガエリがしにくい時は、両手を天井に伸ばしてから、回る方向に倒すと、体が回りやすくなります。",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+},
+{
+"out": "tts/v/roll/s5_0.wav",
+"text": "評価では、どこが動きにくいか、ベッドサクや反動を使っているかなどを確認します。",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+},
+{
+"out": "tts/v/roll/s6_0.wav",
+"text": "カタマヒのカタでは、マヒガワの腕が体の下に残らないよう、腕の位置に注意して練習します。",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+},
+{
+"out": "tts/v/roll/s7_0.wav",
+"text": "ネガエリは、ベッドの上での自立の第一歩です。",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+},
+{
+"out": "tts/v/roll/s7_1.wav",
+"text": "動きの順番を意識して見てみましょう。",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+},
+{
+"out": "tts/v/roll/s8_0.wav",
+"text": "臨床の勉強をしながら、エーアイで動画を作り、収益化する。",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+},
+{
+"out": "tts/v/roll/s8_1.wav",
+"text": "この動画のサクセイホウホウ、使用しているエーアイ、収益化の方法を知りたい方は、プロフィールリンクまで。",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+},
+{
+"out": "tts/v/sts/s0_0.wav",
+"text": "いっぷんでかいせつ、立ち上がり動作。",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+},
+{
+"out": "tts/v/sts/s0_1.wav",
+"text": "椅子から立つ時の、体の動きを説明できますか？",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+},
+{
+"out": "tts/v/sts/s1_0.wav",
+"text": "立ち上がりは、体を前に倒す時期、お尻が浮く時期、体を伸ばす時期に、大きく分けられます。",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+},
+{
+"out": "tts/v/sts/s2_0.wav",
+"text": "まず、体を前に倒して、重心を足の上に移します。",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+},
+{
+"out": "tts/v/sts/s3_0.wav",
+"text": "お尻がザメンから離れたら、股関節と膝を伸ばして、体を持ち上げていきます。",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+},
+{
+"out": "tts/v/sts/s4_0.wav",
+"text": "実は、足を少し手前に引くだけで、重心を足の上に乗せやすくなり、立ち上がりが楽になります。",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+},
+{
+"out": "tts/v/sts/s5_0.wav",
+"text": "評価では、体を前に倒す量、勢いに頼っていないか、左右の足への体重のかけ方を確認します。",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+},
+{
+"out": "tts/v/sts/s6_0.wav",
+"text": "立ち上がりにくい時は、ザメンを高くする、手すりを使うなど、環境の調整も考えます。",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+},
+{
+"out": "tts/v/sts/s7_0.wav",
+"text": "立ち上がりは、多くの生活動作の出発点です。",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+},
+{
+"out": "tts/v/sts/s7_1.wav",
+"text": "体を前に倒すことから意識しましょう。",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+},
+{
+"out": "tts/v/sts/s8_0.wav",
+"text": "臨床の勉強をしながら、エーアイで動画を作り、収益化する。",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+},
+{
+"out": "tts/v/sts/s8_1.wav",
+"text": "この動画のサクセイホウホウ、使用しているエーアイ、収益化の方法を知りたい方は、プロフィールリンクまで。",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+},
+{
+"out": "tts/v/trend/s0_0.wav",
+"text": "いっぷんでかいせつ、トレンデレンブルグチョウコウ。",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+},
+{
+"out": "tts/v/trend/s0_1.wav",
+"text": "片足立ちで骨盤が下がるのは、なぜか説明できますか？",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+},
+{
+"out": "tts/v/trend/s1_0.wav",
+"text": "片足で立った時に、浮かせた足の側の骨盤が下がる現象を、トレンデレンブルグチョウコウといいます。",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+},
+{
+"out": "tts/v/trend/s2_0.wav",
+"text": "主な原因は、立っている側の、お尻の横にあるチュウデンキンのきんりょく低下です。",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+},
+{
+"out": "tts/v/trend/s3_0.wav",
+"text": "歩く時に、骨盤が下がる歩き方を、トレンデレンブルグ歩行といいます。",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+},
+{
+"out": "tts/v/trend/s4_0.wav",
+"text": "実は、骨盤が下がらないよう、体を立っている足の側に大きく傾けて歩く、デュシェンヌ歩行という代償もあります。",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+},
+{
+"out": "tts/v/trend/s5_0.wav",
+"text": "評価では、片足立ちでの骨盤の傾き、チュウデンキンのきんりょく、股関節の痛みを確認します。",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+},
+{
+"out": "tts/v/trend/s6_0.wav",
+"text": "改善には、チュウデンキンのトレーニングや、杖をはんたいそくの手で使うことが役立ちます。",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+},
+{
+"out": "tts/v/trend/s7_0.wav",
+"text": "骨盤の傾きは、股関節からのサインです。",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+},
+{
+"out": "tts/v/trend/s7_1.wav",
+"text": "片足立ちで確認してみましょう。",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+},
+{
+"out": "tts/v/trend/s8_0.wav",
+"text": "臨床の勉強をしながら、エーアイで動画を作り、収益化する。",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+},
+{
+"out": "tts/v/trend/s8_1.wav",
+"text": "この動画のサクセイホウホウ、使用しているエーアイ、収益化の方法を知りたい方は、プロフィールリンクまで。",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+},
+{
+"out": "tts/v/pelvis/s0_0.wav",
+"text": "いっぷんでかいせつ、骨盤のゼンケイとコウケイ。",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+},
+{
+"out": "tts/v/pelvis/s0_1.wav",
+"text": "姿勢のくずれと、骨盤の関係を説明できますか？",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+},
+{
+"out": "tts/v/pelvis/s1_0.wav",
+"text": "骨盤が前に傾くことをゼンケイ、後ろに傾くことをコウケイといいます。",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+},
+{
+"out": "tts/v/pelvis/s2_0.wav",
+"text": "骨盤がゼンケイすると、腰の反りが強くなりやすく、コウケイすると、腰が丸くなりやすくなります。",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+},
+{
+"out": "tts/v/pelvis/s3_0.wav",
+"text": "ゼンケイにはチョウヨウキンや腰のきん肉が、コウケイにはフッキンやお尻、太ももの裏のきん肉が関わります。",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+},
+{
+"out": "tts/v/pelvis/s4_0.wav",
+"text": "実は、コウレイのカタや長くスワッテイルカタは、骨盤が後ろに傾いた、背中の丸い座り方になりやすいです。",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+},
+{
+"out": "tts/v/pelvis/s5_0.wav",
+"text": "評価では、立った姿勢や座った姿勢で、骨盤の傾きと、背骨のカーブを確認します。",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+},
+{
+"out": "tts/v/pelvis/s6_0.wav",
+"text": "改善には、硬いきん肉のストレッチ、弱いきん肉のトレーニング、ザメンや背もたれの調整が役立ちます。",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+},
+{
+"out": "tts/v/pelvis/s7_0.wav",
+"text": "骨盤は、姿勢の土台です。",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+},
+{
+"out": "tts/v/pelvis/s7_1.wav",
+"text": "まずは、座り方から見直してみましょう。",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+},
+{
+"out": "tts/v/pelvis/s8_0.wav",
+"text": "臨床の勉強をしながら、エーアイで動画を作り、収益化する。",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+},
+{
+"out": "tts/v/pelvis/s8_1.wav",
+"text": "この動画のサクセイホウホウ、使用しているエーアイ、収益化の方法を知りたい方は、プロフィールリンクまで。",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+},
+{
+"out": "tts/v/diaph/s0_0.wav",
+"text": "いっぷんでかいせつ、オウカクマクとふくしきこきゅう。",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+},
+{
+"out": "tts/v/diaph/s0_1.wav",
+"text": "息を吸う時、オウカクマクがどう動くか説明できますか？",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+},
+{
+"out": "tts/v/diaph/s1_0.wav",
+"text": "オウカクマクは、胸とオナカの間にある、ドーム状の呼吸のきん肉です。",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+},
+{
+"out": "tts/v/diaph/s2_0.wav",
+"text": "息を吸う時は、オウカクマクが縮んで下がり、胸の中が広がって、空気が入ります。",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+},
+{
+"out": "tts/v/diaph/s3_0.wav",
+"text": "息を吐く時は、オウカクマクがゆるんで上がり、ふだんの呼吸では、肺が自然に縮む力で空気が出ていきます。",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+},
+{
+"out": "tts/v/diaph/s4_0.wav",
+"text": "実は、ふだんの静かな呼吸では、息を吸う働きの多くを、オウカクマクがニナッテいるとされています。",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+},
+{
+"out": "tts/v/diaph/s5_0.wav",
+"text": "評価では、呼吸の回数、オナカと胸の動き方、首や肩のきん肉を使いすぎていないかを確認します。",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+},
+{
+"out": "tts/v/diaph/s6_0.wav",
+"text": "ふくしきこきゅうの練習では、オナカに手を当てて、吸う時にオナカがふくらむのを感じてもらいます。",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+},
+{
+"out": "tts/v/diaph/s7_0.wav",
+"text": "呼吸は、すべての動作の土台です。",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+},
+{
+"out": "tts/v/diaph/s7_1.wav",
+"text": "オウカクマクの動きを意識してみましょう。",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+},
+{
+"out": "tts/v/diaph/s8_0.wav",
+"text": "臨床の勉強をしながら、エーアイで動画を作り、収益化する。",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+},
+{
+"out": "tts/v/diaph/s8_1.wav",
+"text": "この動画のサクセイホウホウ、使用しているエーアイ、収益化の方法を知りたい方は、プロフィールリンクまで。",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+},
+{
+"out": "tts/v/ich/s0_0.wav",
+"text": "いっぷんでかいせつ、ヒカク出血とシショウ出血。",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+},
+{
+"out": "tts/v/ich/s0_1.wav",
+"text": "出血する場所で、症状がどう違うか説明できますか？",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+},
+{
+"out": "tts/v/ich/s1_0.wav",
+"text": "ヒカク出血とシショウ出血は、ノウシュッケツの中でも、特に多くみられるタイプです。",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+},
+{
+"out": "tts/v/ich/s2_0.wav",
+"text": "ヒカク出血では、近くを通るナイホウが傷つくと、はんたいそくのテアシの麻痺が起こりやすくなります。",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+},
+{
+"out": "tts/v/ich/s3_0.wav",
+"text": "シショウ出血では、はんたいそくの感覚の障害が目立ちやすく、麻痺が出ることもあります。",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+},
+{
+"out": "tts/v/ich/s4_0.wav",
+"text": "実は、左右どちらの脳かによって、言葉の障害や、はんそくくうかんむしなど、コウジノウキノウショウガイの出方も変わります。",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+},
+{
+"out": "tts/v/ich/s5_0.wav",
+"text": "評価では、画像で出血の場所と大きさを確認し、麻痺、感覚、高次脳機能を合わせて評価します。",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+},
+{
+"out": "tts/v/ich/s6_0.wav",
+"text": "感覚の障害が強い時は、目で見て確認しながら動く練習をし、けがの予防にも注意します。",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+},
+{
+"out": "tts/v/ich/s7_0.wav",
+"text": "出血の場所がわかると、起こりやすい症状が予測できます。",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+},
+{
+"out": "tts/v/ich/s7_1.wav",
+"text": "画像と症状をつなげて考えましょう。",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+},
+{
+"out": "tts/v/ich/s8_0.wav",
+"text": "臨床の勉強をしながら、エーアイで動画を作り、収益化する。",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+},
+{
+"out": "tts/v/ich/s8_1.wav",
+"text": "この動画のサクセイホウホウ、使用しているエーアイ、収益化の方法を知りたい方は、プロフィールリンクまで。",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+},
+{
+"out": "tts/v/cpsp/s0_0.wav",
+"text": "いっぷんでかいせつ、シショウ痛。",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+},
+{
+"out": "tts/v/cpsp/s0_1.wav",
+"text": "ノウソッチュウのあと、マヒガワに強い痛みが続くのは、なぜか説明できますか？",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+},
+{
+"out": "tts/v/cpsp/s1_0.wav",
+"text": "ノウソッチュウのあと、マヒガワに起こる、焼けるような痛みやしびれを、ノウソッチュウ後チュウスウセイトウツウといいます。",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+},
+{
+"out": "tts/v/cpsp/s2_0.wav",
+"text": "シショウの障害で起こることが多く、シショウ痛とも呼ばれます。",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+},
+{
+"out": "tts/v/cpsp/s3_0.wav",
+"text": "軽く触れる、冷たいものに当たるなど、ふだんは痛くない刺激で、痛みが出ることもあります。",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+},
+{
+"out": "tts/v/cpsp/s4_0.wav",
+"text": "実は、ノウソッチュウが起きてすぐではなく、すうしゅうかんから数か月たってから、痛みが出てくることもあります。",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+},
+{
+"out": "tts/v/cpsp/s5_0.wav",
+"text": "評価では、痛みの場所、強さ、どんな刺激で強くなるかを、本人の言葉で確認します。",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+},
+{
+"out": "tts/v/cpsp/s6_0.wav",
+"text": "治療は薬が中心になることが多く、リハビリでは、痛みに配慮しながら、生活の中で動ける工夫をします。",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+},
+{
+"out": "tts/v/cpsp/s7_0.wav",
+"text": "見た目ではわからないつらさです。",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+},
+{
+"out": "tts/v/cpsp/s7_1.wav",
+"text": "本人の訴えに、しっかり耳を傾けましょう。",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+},
+{
+"out": "tts/v/cpsp/s8_0.wav",
+"text": "臨床の勉強をしながら、エーアイで動画を作り、収益化する。",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+},
+{
+"out": "tts/v/cpsp/s8_1.wav",
+"text": "この動画のサクセイホウホウ、使用しているエーアイ、収益化の方法を知りたい方は、プロフィールリンクまで。",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+},
+{
+"out": "tts/v/eat/s0_0.wav",
+"text": "いっぷんでかいせつ、食事動作。",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+},
+{
+"out": "tts/v/eat/s0_1.wav",
+"text": "食べることは、どんな動作の組み合わせか説明できますか？",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+},
+{
+"out": "tts/v/eat/s1_0.wav",
+"text": "食事動作には、座る姿勢、食べ物をすくう、口まで運ぶ、かむ、飲み込むなどの動作が含まれます。",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+},
+{
+"out": "tts/v/eat/s2_0.wav",
+"text": "まず大切なのは姿勢です。",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+},
+{
+"out": "tts/v/eat/s2_1.wav",
+"text": "足の裏を床につけ、少しあごを引いた姿勢が、むせにくいとされています。",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+},
+{
+"out": "tts/v/eat/s3_0.wav",
+"text": "手の動きでは、肩、ひじ、手首、指を協調させて、スプーンやハシを口まで運びます。",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+},
+{
+"out": "tts/v/eat/s4_0.wav",
+"text": "実は、持ち手を太くしたスプーンや、すくいやすい形の皿を使うだけで、自分でタベラレルカタもいます。",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+},
+{
+"out": "tts/v/eat/s5_0.wav",
+"text": "評価では、姿勢、手の動き、食べるペース、むせの有無、疲れやすさを確認します。",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+},
+{
+"out": "tts/v/eat/s6_0.wav",
+"text": "ジジョグの工夫、テーブルの高さの調整、片手でも使いやすい食器なども役立ちます。",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+},
+{
+"out": "tts/v/eat/s7_0.wav",
+"text": "自分で食べることは、生きる意欲にもつながります。",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+},
+{
+"out": "tts/v/eat/s7_1.wav",
+"text": "できる方法を、一緒に探しましょう。",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+},
+{
+"out": "tts/v/eat/s8_0.wav",
+"text": "臨床の勉強をしながら、エーアイで動画を作り、収益化する。",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+},
+{
+"out": "tts/v/eat/s8_1.wav",
+"text": "この動画のサクセイホウホウ、使用しているエーアイ、収益化の方法を知りたい方は、プロフィールリンクまで。",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+}
 ]
