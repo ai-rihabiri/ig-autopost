@@ -1,86 +1,86 @@
 [
 {
-"out": "tts/v/brach/s0_0.wav",
-"text": "いっぷんでかいせつ、ジョウワンキン。",
+"out": "tts/v/fds/s0_0.wav",
+"text": "いっぷんでかいせつ、センシクッキン。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/brach/s0_1.wav",
-"text": "ひじを曲げる主役は、じょうわんにとうきんだと思っていませんか？",
+"out": "tts/v/fds/s0_1.wav",
+"text": "シンシクッキンとの違いを、説明できますか？",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/brach/s1_0.wav",
-"text": "ジョウワンキンは、じょうわんにとうきんの奥、上腕の前面の深いところにあるきん肉です。",
+"out": "tts/v/fds/s1_0.wav",
+"text": "センシクッキンは、ゼンワンの前面で、シンシクッキンの手前にあるきん肉です。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/brach/s2_0.wav",
-"text": "起始は、ジョウワンコツの前面の下半分です。",
+"out": "tts/v/fds/s2_0.wav",
+"text": "起始は、ジョウワンコツのナイソクジョウカと、シャッコツ、トウコツです。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/brach/s3_0.wav",
-"text": "停止は、シャッコツソメンと、シャッコツのコウジョウトッキです。",
+"out": "tts/v/fds/s3_0.wav",
+"text": "停止は、ひとさしゆびから小指の、チュウセツコツです。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/brach/s4_0.wav",
-"text": "作用は、チュウカンセツの屈曲です。",
+"out": "tts/v/fds/s4_0.wav",
+"text": "作用は、指のピーアイピー関節の屈曲です。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/brach/s5_0.wav",
-"text": "実は、ゼンワンがカイナイしていてもカイガイしていても、同じようにひじを曲げられるため、肘屈曲の主力ともいわれます。",
+"out": "tts/v/fds/s5_0.wav",
+"text": "実は、停止のケンが二つに分かれ、ソノアイダヲ、シンシクッキンのケンが通り抜けています。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/brach/s6_0.wav",
-"text": "キンピシンケイが支配し、ひじのけがの後には硬くなって、シンテン制限の原因になることもあります。",
+"out": "tts/v/fds/s6_0.wav",
+"text": "検査では、他の指を伸ばして押さえ、調べたい指のピーアイピー関節が曲がるかを確認します。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/brach/s7_0.wav",
-"text": "ジョウワンキンは、ジョウワンコツからシャッコツへ。",
+"out": "tts/v/fds/s7_0.wav",
+"text": "センシクッキンは、チュウセツコツにつき、ピーアイピー関節を曲げるきん肉です。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/brach/s7_1.wav",
-"text": "ひじを曲げる、縁の下の力持ちです。",
+"out": "tts/v/fds/s7_1.wav",
+"text": "シンシクッキンと、セットで覚えましょう。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/brach/s8_0.wav",
+"out": "tts/v/fds/s8_0.wav",
 "text": "臨床の勉強をしながら、エーアイで動画を作り、収益化する。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
@@ -88,7 +88,7 @@
 "intonation": 1.15
 },
 {
-"out": "tts/v/brach/s8_1.wav",
+"out": "tts/v/fds/s8_1.wav",
 "text": "この動画のサクセイホウホウ、使用しているエーアイ、収益化の方法を知りたい方は、プロフィールリンクまで。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
@@ -96,87 +96,87 @@
 "intonation": 1.15
 },
 {
-"out": "tts/v/brrad/s0_0.wav",
-"text": "いっぷんでかいせつ、ワントウコツキン。",
+"out": "tts/v/fpl/s0_0.wav",
+"text": "いっぷんでかいせつ、チョウボシクッキン。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/brrad/s0_1.wav",
-"text": "ひじを曲げるきん肉なのに、意外な神経が支配しているのを知っていますか？",
+"out": "tts/v/fpl/s0_1.wav",
+"text": "親指の先の関節を曲げるきん肉を、知っていますか？",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/brrad/s1_0.wav",
-"text": "ワントウコツキンは、ゼンワンの親指側を通る、細長いきん肉です。",
+"out": "tts/v/fpl/s1_0.wav",
+"text": "チョウボシクッキンは、ゼンワンの親指側の、深いところにあるきん肉です。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/brrad/s2_0.wav",
-"text": "起始は、ジョウワンコツのガイソクカジョウリョウです。",
+"out": "tts/v/fpl/s2_0.wav",
+"text": "起始は、トウコツの前面と、ゼンワンコツカンマクです。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/brrad/s3_0.wav",
-"text": "停止は、トウコツのケイジョウトッキです。",
+"out": "tts/v/fpl/s3_0.wav",
+"text": "停止は、親指のマッセツコツの底です。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/brrad/s4_0.wav",
-"text": "作用は、チュウカンセツの屈曲で、ゼンワンがチュウカンイの時に、特に強く働きます。",
+"out": "tts/v/fpl/s4_0.wav",
+"text": "作用は、親指のIP関節の屈曲です。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/brrad/s5_0.wav",
-"text": "実は、ひじを曲げるきん肉なのに、シンキンと同じトウコツ神経が支配しています。",
+"out": "tts/v/fpl/s5_0.wav",
+"text": "実は、親指のIP関節を、自分で曲げられるのは、このチョウボシクッキンだけです。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/brrad/s6_0.wav",
-"text": "親指を上にしてひじを曲げると、ゼンワンの親指側で、きん肉のふくらみを触れることができます。",
+"out": "tts/v/fpl/s6_0.wav",
+"text": "ゼンコツカンシンケイが障害されると、親指とひとさしゆびで、きれいな丸が作れなくなることがあります。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/brrad/s7_0.wav",
-"text": "ワントウコツキンは、ジョウワンコツのがいそくからトウコツの先へ。",
+"out": "tts/v/fpl/s7_0.wav",
+"text": "チョウボシクッキンは、トウコツから親指の先へ。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/brrad/s7_1.wav",
-"text": "ジョッキを持ち上げるような動きで働くきん肉です。",
+"out": "tts/v/fpl/s7_1.wav",
+"text": "つまむ動作を支える、大切なきん肉です。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/brrad/s8_0.wav",
+"out": "tts/v/fpl/s8_0.wav",
 "text": "臨床の勉強をしながら、エーアイで動画を作り、収益化する。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
@@ -184,7 +184,7 @@
 "intonation": 1.15
 },
 {
-"out": "tts/v/brrad/s8_1.wav",
+"out": "tts/v/fpl/s8_1.wav",
 "text": "この動画のサクセイホウホウ、使用しているエーアイ、収益化の方法を知りたい方は、プロフィールリンクまで。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
@@ -192,87 +192,87 @@
 "intonation": 1.15
 },
 {
-"out": "tts/v/supi/s0_0.wav",
-"text": "いっぷんでかいせつ、カイガイキン。",
+"out": "tts/v/fcr/s0_0.wav",
+"text": "いっぷんでかいせつ、トウソクシュコンクッキン。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/supi/s0_1.wav",
-"text": "ドアノブを回す時に働く、深いきん肉を知っていますか？",
+"out": "tts/v/fcr/s0_1.wav",
+"text": "脈をとる時の、目印になるケンを知っていますか？",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/supi/s1_0.wav",
-"text": "カイガイキンは、ひじのがいそくの深いところで、トウコツを巻くようについているきん肉です。",
+"out": "tts/v/fcr/s1_0.wav",
+"text": "トウソクシュコンクッキンは、ゼンワンの前面の、親指側を通るきん肉です。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/supi/s2_0.wav",
-"text": "起始は、ジョウワンコツのガイソクジョウカと、シャッコツのカイガイキンリョウなどです。",
+"out": "tts/v/fcr/s2_0.wav",
+"text": "起始は、ジョウワンコツのナイソクジョウカです。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/supi/s3_0.wav",
-"text": "停止は、トウコツの上部のがいそく面です。",
+"out": "tts/v/fcr/s3_0.wav",
+"text": "停止は、第2と第3のチュウシュコツの底です。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/supi/s4_0.wav",
-"text": "作用は、ゼンワンのカイガイです。",
+"out": "tts/v/fcr/s4_0.wav",
+"text": "作用は、シュカンセツのショウクツと、トウクツです。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/supi/s5_0.wav",
-"text": "実は、トウコツ神経のシンシが、このきん肉の中を通り抜けるため、ここで神経が圧迫されることがあります。",
+"out": "tts/v/fcr/s5_0.wav",
+"text": "実は、手首でこのケンのすぐ親指側を触ると、トウコツ動脈の脈を感じることができます。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/supi/s6_0.wav",
-"text": "指を伸ばしにくいのに、感覚の障害が少ない時は、コウコツカンシンケイの障害も考えます。",
+"out": "tts/v/fcr/s6_0.wav",
+"text": "せいちゅう神経が支配し、手首を曲げるとケンが浮き出るので、触診しやすいケンのひとつです。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/supi/s7_0.wav",
-"text": "カイガイキンは、ひじのがいそくからトウコツへ。",
+"out": "tts/v/fcr/s7_0.wav",
+"text": "トウソクシュコンクッキンは、ひじの内側から手のひらの親指側へ。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/supi/s7_1.wav",
-"text": "ねじる動きと、神経の通り道を、セットで覚えましょう。",
+"out": "tts/v/fcr/s7_1.wav",
+"text": "脈の目印としても覚えておきましょう。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/supi/s8_0.wav",
+"out": "tts/v/fcr/s8_0.wav",
 "text": "臨床の勉強をしながら、エーアイで動画を作り、収益化する。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
@@ -280,7 +280,7 @@
 "intonation": 1.15
 },
 {
-"out": "tts/v/supi/s8_1.wav",
+"out": "tts/v/fcr/s8_1.wav",
 "text": "この動画のサクセイホウホウ、使用しているエーアイ、収益化の方法を知りたい方は、プロフィールリンクまで。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
@@ -288,87 +288,79 @@
 "intonation": 1.15
 },
 {
-"out": "tts/v/fdp/s0_0.wav",
-"text": "いっぷんでかいせつ、シンシクッキン。",
+"out": "tts/v/pl/s0_0.wav",
+"text": "いっぷんでかいせつ、チョウショウキン。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/fdp/s0_1.wav",
-"text": "指先の関節だけを曲げられるきん肉は、どれか知っていますか？",
+"out": "tts/v/pl/s0_1.wav",
+"text": "人によっては、ない場合もあるきん肉を知っていますか？",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/fdp/s1_0.wav",
-"text": "シンシクッキンは、ゼンワンの前面の深いところから、指先までのびるきん肉です。",
+"out": "tts/v/pl/s1_0.wav",
+"text": "チョウショウキンは、ゼンワンの前面のチュウオウを通る、細いきん肉です。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/fdp/s2_0.wav",
-"text": "起始は、シャッコツの前面と、ゼンワンコツカンマクです。",
+"out": "tts/v/pl/s2_0.wav",
+"text": "起始は、ジョウワンコツのナイソクジョウカです。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/fdp/s3_0.wav",
-"text": "停止は、ひとさしゆびから小指の、マッセツコツの底です。",
+"out": "tts/v/pl/s3_0.wav",
+"text": "停止は、手のひらの、シュショウケンマクです。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/fdp/s4_0.wav",
-"text": "作用は、指のディーアイピー関節の屈曲で、ピーアイピー関節やエムピーカンセツ、手首の屈曲も助けます。",
+"out": "tts/v/pl/s4_0.wav",
+"text": "作用は、シュカンセツのショウクツを助けることと、手のひらのケン膜を張ることです。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/fdp/s5_0.wav",
-"text": "実は、ディーアイピー関節を自分で曲げられるのは、このシンシクッキンだけです。",
+"out": "tts/v/pl/s5_0.wav",
+"text": "実は、チョウショウキンは、片側や両側で、ない人もいることが知られています。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/fdp/s6_0.wav",
-"text": "検査では、ピーアイピー関節を押さえた状態で、指先の関節が曲がるかを確認します。",
+"out": "tts/v/pl/s6_0.wav",
+"text": "親指と小指の先をつけて、手首を軽く曲げると、手首のチュウオウに細いケンが浮き出るかで確かめられます。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/fdp/s7_0.wav",
-"text": "シンシクッキンは、ひとさしゆびと中指はせいちゅう神経、薬指と小指はシャッコツ神経が支配するきん肉です。",
+"out": "tts/v/pl/s7_0.wav",
+"text": "チョウショウキンは、ケン移植の材料に使われることもある、細くて長いきん肉です。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/fdp/s7_1.wav",
-"text": "指先を曲げるきん肉として覚えましょう。",
-"speaker": "春日部つむぎ",
-"style": "ノーマル",
-"speed": 1.12,
-"intonation": 1.15
-},
-{
-"out": "tts/v/fdp/s8_0.wav",
+"out": "tts/v/pl/s8_0.wav",
 "text": "臨床の勉強をしながら、エーアイで動画を作り、収益化する。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
@@ -376,7 +368,7 @@
 "intonation": 1.15
 },
 {
-"out": "tts/v/fdp/s8_1.wav",
+"out": "tts/v/pl/s8_1.wav",
 "text": "この動画のサクセイホウホウ、使用しているエーアイ、収益化の方法を知りたい方は、プロフィールリンクまで。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
@@ -384,79 +376,87 @@
 "intonation": 1.15
 },
 {
-"out": "tts/v/lumb/s0_0.wav",
-"text": "いっぷんでかいせつ、チュウヨウキン。",
+"out": "tts/v/pq/s0_0.wav",
+"text": "いっぷんでかいせつ、ホウケイカイナイキン。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/lumb/s0_1.wav",
-"text": "ケンから始まってケンに付く、めずらしいきん肉を知っていますか？",
+"out": "tts/v/pq/s0_1.wav",
+"text": "手首の近くにある、四角いきん肉を知っていますか？",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/lumb/s1_0.wav",
-"text": "チュウヨウキンは、手のひらにある、4本の細いきん肉です。",
+"out": "tts/v/pq/s1_0.wav",
+"text": "ホウケイカイナイキンは、ゼンワンの手首に近い、いちばん深いところにあるきん肉です。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/lumb/s2_0.wav",
-"text": "起始は、シンシクッキンのケンです。",
+"out": "tts/v/pq/s2_0.wav",
+"text": "起始は、シャッコツのエンイの前面です。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/lumb/s3_0.wav",
-"text": "停止は、指の背側にある、シハイケンマクです。",
+"out": "tts/v/pq/s3_0.wav",
+"text": "停止は、トウコツのエンイの前面です。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/lumb/s4_0.wav",
-"text": "作用は、エムピーカンセツの屈曲と、ピーアイピー関節、ディーアイピー関節のシンテンです。",
+"out": "tts/v/pq/s4_0.wav",
+"text": "作用は、ゼンワンのカイナイです。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/lumb/s5_0.wav",
-"text": "実は、骨ではなく、ケンから起こってケンに付く、とてもめずらしいきん肉です。",
+"out": "tts/v/pq/s5_0.wav",
+"text": "実は、カイナイの主役で、軽いカイナイでもまず働き、エンイ橈尺関節の安定にも関わるとされています。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/lumb/s6_0.wav",
-"text": "エムピーカンセツを曲げて、指をまっすぐ伸ばす形は、物をつまむ時や、手の機能の評価でも大切です。",
+"out": "tts/v/pq/s6_0.wav",
+"text": "トーコツエンイタンコッセツの手術では、このきん肉が影響を受けることもあり、カイナイの力も確認します。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/lumb/s7_0.wav",
-"text": "チュウヨウキンは、手のひらの小さなきん肉ですが、指の細かい動きを支えています。",
+"out": "tts/v/pq/s7_0.wav",
+"text": "ホウケイカイナイキンは、シャッコツからトウコツへ。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/lumb/s8_0.wav",
+"out": "tts/v/pq/s7_1.wav",
+"text": "手首の近くで、カイナイを支えるきん肉です。",
+"speaker": "春日部つむぎ",
+"style": "ノーマル",
+"speed": 1.12,
+"intonation": 1.15
+},
+{
+"out": "tts/v/pq/s8_0.wav",
 "text": "臨床の勉強をしながら、エーアイで動画を作り、収益化する。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
@@ -464,7 +464,7 @@
 "intonation": 1.15
 },
 {
-"out": "tts/v/lumb/s8_1.wav",
+"out": "tts/v/pq/s8_1.wav",
 "text": "この動画のサクセイホウホウ、使用しているエーアイ、収益化の方法を知りたい方は、プロフィールリンクまで。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
@@ -472,87 +472,87 @@
 "intonation": 1.15
 },
 {
-"out": "tts/v/apb/s0_0.wav",
-"text": "いっぷんでかいせつ、タンボシガイテンキン。",
+"out": "tts/v/op/s0_0.wav",
+"text": "いっぷんでかいせつ、ボシタイリツキン。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/apb/s0_1.wav",
-"text": "シュコンカン症候群で、やせやすいきん肉を知っていますか？",
+"out": "tts/v/op/s0_1.wav",
+"text": "人の手らしい動きを生むきん肉を、知っていますか？",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/apb/s1_0.wav",
-"text": "タンボシガイテンキンは、親指の付け根のふくらみ、ボシキュウの表面にあるきん肉です。",
+"out": "tts/v/op/s1_0.wav",
+"text": "ボシタイリツキンは、親指の付け根のふくらみ、ボシキュウの深いところにあるきん肉です。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/apb/s2_0.wav",
-"text": "起始は、クッキンシタイと、シュウジョウコツ、ダイリョウケイコツです。",
+"out": "tts/v/op/s2_0.wav",
+"text": "起始は、クッキンシタイと、ダイリョウケイコツです。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/apb/s3_0.wav",
-"text": "停止は、親指のキセツコツの底です。",
+"out": "tts/v/op/s3_0.wav",
+"text": "停止は、第1チュウシュコツの、橈側のフチです。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/apb/s4_0.wav",
-"text": "作用は、親指を手のひらから垂直に離す、ショウソクガイテンです。",
+"out": "tts/v/op/s4_0.wav",
+"text": "作用は、親指を小指の方へ向ける、ぼしのタイリツです。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/apb/s5_0.wav",
-"text": "実は、せいちゅう神経が支配するため、シュコンカン症候群では、このきん肉がやせて、ボシキュウが平らになることがあります。",
+"out": "tts/v/op/s5_0.wav",
+"text": "実は、親指を他の指と向かい合わせるタイリツは、人の手の大きな特徴で、つまむ、にぎるに欠かせません。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/apb/s6_0.wav",
-"text": "親指で物をつまみにくい、ボタンを留めにくいなどの訴えにも、注意しましょう。",
+"out": "tts/v/op/s6_0.wav",
+"text": "せいちゅう神経が支配し、シュコンカン症候群で弱くなることもあるので、親指と小指の先をつけて確認します。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/apb/s7_0.wav",
-"text": "タンボシガイテンキンは、親指を開いて、物をつかむ準備をするきん肉です。",
+"out": "tts/v/op/s7_0.wav",
+"text": "ボシタイリツキンは、親指を回して向かい合わせるきん肉です。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/apb/s7_1.wav",
-"text": "ボシキュウの形も、よく見てみましょう。",
+"out": "tts/v/op/s7_1.wav",
+"text": "つまむ、にぎるの土台を支えています。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/apb/s8_0.wav",
+"out": "tts/v/op/s8_0.wav",
 "text": "臨床の勉強をしながら、エーアイで動画を作り、収益化する。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
@@ -560,7 +560,7 @@
 "intonation": 1.15
 },
 {
-"out": "tts/v/apb/s8_1.wav",
+"out": "tts/v/op/s8_1.wav",
 "text": "この動画のサクセイホウホウ、使用しているエーアイ、収益化の方法を知りたい方は、プロフィールリンクまで。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
@@ -568,87 +568,87 @@
 "intonation": 1.15
 },
 {
-"out": "tts/v/fcu/s0_0.wav",
-"text": "いっぷんでかいせつ、シャクソクシュコンクッキン。",
+"out": "tts/v/adp/s0_0.wav",
+"text": "いっぷんでかいせつ、ボシナイテンキン。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/fcu/s0_1.wav",
-"text": "手首を小指側に曲げるきん肉を知っていますか？",
+"out": "tts/v/adp/s0_1.wav",
+"text": "紙をつまむと、親指が曲がってしまうのは、なぜか知っていますか？",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/fcu/s1_0.wav",
-"text": "シャクソクシュコンクッキンは、ゼンワンの小指側を通るきん肉です。",
+"out": "tts/v/adp/s1_0.wav",
+"text": "ボシナイテンキンは、親指とひとさしゆびの間の、奥にあるきん肉です。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/fcu/s2_0.wav",
-"text": "起始は、ジョウワンコツのナイソクジョウカと、チュウトウ、シャッコツのコウエンです。",
+"out": "tts/v/adp/s2_0.wav",
+"text": "起始は、第3チュウシュコツと、ユウトウコツなどです。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/fcu/s3_0.wav",
-"text": "停止は、トウジョウコツ、ユウコウコツコウ、ダイゴチュウシュコツの底です。",
+"out": "tts/v/adp/s3_0.wav",
+"text": "停止は、親指のキセツコツの底の、尺側です。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/fcu/s4_0.wav",
-"text": "作用は、シュカンセツのショウクツと、シャックツです。",
+"out": "tts/v/adp/s4_0.wav",
+"text": "作用は、親指をひとさしゆびに寄せる、ぼしのナイテンです。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/fcu/s5_0.wav",
-"text": "実は、シャッコツ神経が、このきん肉の二つの頭の間を通るため、チュウブカン症候群と関係があります。",
+"out": "tts/v/adp/s5_0.wav",
+"text": "実は、シャッコツ神経が支配するため、障害されると、親指の先を曲げて代わりに挟む、フロマン徴候がみられます。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/fcu/s6_0.wav",
-"text": "投球などで、ひじの内側に負担がかかる時、ひじを内側から支える働きもあるとされています。",
+"out": "tts/v/adp/s6_0.wav",
+"text": "鍵をつまむような、横つまみの力を支えるきん肉で、シャッコツ神経障害の評価でも確認します。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/fcu/s7_0.wav",
-"text": "シャクソクシュコンクッキンは、ひじの内側から手首の小指側へ。",
+"out": "tts/v/adp/s7_0.wav",
+"text": "ボシナイテンキンは、手のひらの奥から親指へ。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/fcu/s7_1.wav",
-"text": "シャッコツ神経との関係も、あわせて覚えましょう。",
+"out": "tts/v/adp/s7_1.wav",
+"text": "横つまみの、力の源です。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/fcu/s8_0.wav",
+"out": "tts/v/adp/s8_0.wav",
 "text": "臨床の勉強をしながら、エーアイで動画を作り、収益化する。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
@@ -656,7 +656,7 @@
 "intonation": 1.15
 },
 {
-"out": "tts/v/fcu/s8_1.wav",
+"out": "tts/v/adp/s8_1.wav",
 "text": "この動画のサクセイホウホウ、使用しているエーアイ、収益化の方法を知りたい方は、プロフィールリンクまで。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
@@ -664,87 +664,87 @@
 "intonation": 1.15
 },
 {
-"out": "tts/v/tmaj/s0_0.wav",
-"text": "いっぷんでかいせつ、ダイエンキン。",
+"out": "tts/v/dio/s0_0.wav",
+"text": "いっぷんでかいせつ、ハイソクコッカンキン。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/tmaj/s0_1.wav",
-"text": "こうはいきんの小さな助手と呼ばれるきん肉を知っていますか？",
+"out": "tts/v/dio/s0_1.wav",
+"text": "指を開くきん肉が、どこにあるか知っていますか？",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/tmaj/s1_0.wav",
-"text": "ダイエンキンは、けんこうこつの下のほうから、腕の骨につくきん肉です。",
+"out": "tts/v/dio/s1_0.wav",
+"text": "ハイソクコッカンキンは、てのこう側で、チュウシュコツの間にある、4つのきん肉です。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/tmaj/s2_0.wav",
-"text": "起始は、けんこうこつのカカクの後面です。",
+"out": "tts/v/dio/s2_0.wav",
+"text": "起始は、となり合うチュウシュコツの、向かい合う面です。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/tmaj/s3_0.wav",
-"text": "停止は、ジョウワンコツのショウケッセツリョウです。",
+"out": "tts/v/dio/s3_0.wav",
+"text": "停止は、キセツコツの底と、シハイケンマクです。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/tmaj/s4_0.wav",
-"text": "作用は、ケンカンセツのシンテン、ナイテン、ナイセンです。",
+"out": "tts/v/dio/s4_0.wav",
+"text": "作用は、中指を軸にして、指を開くガイテンです。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/tmaj/s5_0.wav",
-"text": "実は、こうはいきんと同じ場所につき、作用もよく似ているため、こうはいきんの小さな助手とも呼ばれます。",
+"out": "tts/v/dio/s5_0.wav",
+"text": "実は、ハイソクはDAB、ショウソクはPADと覚えると、ガイテンとナイテンの区別がしやすくなります。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/tmaj/s6_0.wav",
-"text": "ダイエンキンが硬くなると、腕を上げにくくなることがあり、肩のキョジョウ制限の評価でも確認します。",
+"out": "tts/v/dio/s6_0.wav",
+"text": "シャッコツ神経が支配し、障害されると、親指とひとさしゆびの間がやせて、へこむことがあります。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/tmaj/s7_0.wav",
-"text": "ダイエンキンは、けんこうこつのカカクからジョウワンコツへ。",
+"out": "tts/v/dio/s7_0.wav",
+"text": "ハイソクコッカンキンは、チュウシュコツの間から指へ。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/tmaj/s7_1.wav",
-"text": "腕を後ろに引く、内に回す動きで働きます。",
+"out": "tts/v/dio/s7_1.wav",
+"text": "指を開くきん肉として覚えましょう。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/tmaj/s8_0.wav",
+"out": "tts/v/dio/s8_0.wav",
 "text": "臨床の勉強をしながら、エーアイで動画を作り、収益化する。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
@@ -752,7 +752,7 @@
 "intonation": 1.15
 },
 {
-"out": "tts/v/tmaj/s8_1.wav",
+"out": "tts/v/dio/s8_1.wav",
 "text": "この動画のサクセイホウホウ、使用しているエーアイ、収益化の方法を知りたい方は、プロフィールリンクまで。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
@@ -760,87 +760,87 @@
 "intonation": 1.15
 },
 {
-"out": "tts/v/sart/s0_0.wav",
-"text": "いっぷんでかいせつ、ホウコウキン。",
+"out": "tts/v/adm/s0_0.wav",
+"text": "いっぷんでかいせつ、ショウシガイテンキン。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/sart/s0_1.wav",
-"text": "人の体で、いちばん長いきん肉を知っていますか？",
+"out": "tts/v/adm/s0_1.wav",
+"text": "小指のふくらみ、ショウシキュウのいちばんがいそくにあるきん肉を知っていますか？",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/sart/s1_0.wav",
-"text": "ホウコウキンは、太ももの前を、がいそくからないそくへ斜めに横切る、細長いきん肉です。",
+"out": "tts/v/adm/s1_0.wav",
+"text": "ショウシガイテンキンは、手のひらの小指側の、ふくらみをつくるきん肉です。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/sart/s2_0.wav",
-"text": "起始は、ジョウゼンチョウコツキョクです。",
+"out": "tts/v/adm/s2_0.wav",
+"text": "起始は、トウジョウコツです。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/sart/s3_0.wav",
-"text": "停止は、ケイコツソメンの内側で、ガソクをつくります。",
+"out": "tts/v/adm/s3_0.wav",
+"text": "停止は、小指のキセツコツの底の、尺側です。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/sart/s4_0.wav",
-"text": "作用は、コカンセツの屈曲、ガイテン、ガイセンと、シツカンセツの屈曲です。",
+"out": "tts/v/adm/s4_0.wav",
+"text": "作用は、小指を外に開く、小指のガイテンです。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/sart/s5_0.wav",
-"text": "実は、あぐらをかく時の動きが、ちょうどホウコウキンの作用の組み合わせになっています。",
+"out": "tts/v/adm/s5_0.wav",
+"text": "実は、ショウシキュウは、ショウシガイテンキン、タンショウシクッキン、小指タイリツきんの、3つのきん肉でできています。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/sart/s6_0.wav",
-"text": "ダイタイシンケイが支配し、ガソクの痛みや、ジョウゼンチョウコツキョクのレツリコッセツにも関わります。",
+"out": "tts/v/adm/s6_0.wav",
+"text": "シャッコツ神経が支配し、ギヨンカンなどで神経が圧迫されると、ショウシキュウがやせることがあります。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/sart/s7_0.wav",
-"text": "ホウコウキンは、骨盤から膝のないそくへ。",
+"out": "tts/v/adm/s7_0.wav",
+"text": "ショウシガイテンキンは、トウジョウコツから小指へ。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/sart/s7_1.wav",
-"text": "あぐらの姿勢で、思い出してみましょう。",
+"out": "tts/v/adm/s7_1.wav",
+"text": "ショウシキュウの形も、よく見てみましょう。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/sart/s8_0.wav",
+"out": "tts/v/adm/s8_0.wav",
 "text": "臨床の勉強をしながら、エーアイで動画を作り、収益化する。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
@@ -848,7 +848,7 @@
 "intonation": 1.15
 },
 {
-"out": "tts/v/sart/s8_1.wav",
+"out": "tts/v/adm/s8_1.wav",
 "text": "この動画のサクセイホウホウ、使用しているエーアイ、収益化の方法を知りたい方は、プロフィールリンクまで。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
@@ -856,87 +856,87 @@
 "intonation": 1.15
 },
 {
-"out": "tts/v/temp/s0_0.wav",
-"text": "いっぷんでかいせつ、ソクトウキン。",
+"out": "tts/v/ecrl/s0_0.wav",
+"text": "いっぷんでかいせつ、チョウトウソクシュコンシンキン。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/temp/s0_1.wav",
-"text": "歯をかみしめると、こめかみが動くのはなぜか知っていますか？",
+"out": "tts/v/ecrl/s0_1.wav",
+"text": "物をにぎる時に、手首を支えるきん肉を知っていますか？",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/temp/s1_0.wav",
-"text": "ソクトウキンは、こめかみに広がる、扇の形をしたソシャクキンです。",
+"out": "tts/v/ecrl/s1_0.wav",
+"text": "チョウトウソクシュコンシンキンは、ゼンワンのハイソクの、親指側を通るきん肉です。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/temp/s2_0.wav",
-"text": "起始は、ソクトウカと、ソクトウキンマクです。",
+"out": "tts/v/ecrl/s2_0.wav",
+"text": "起始は、ジョウワンコツのガイソクカ上稜です。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/temp/s3_0.wav",
-"text": "停止は、カガクコツのキントッキです。",
+"out": "tts/v/ecrl/s3_0.wav",
+"text": "停止は、第2チュウシュコツの底の、ハイソクです。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/temp/s4_0.wav",
-"text": "作用は、シタアゴを引き上げて口を閉じることと、シタアゴを後ろに引くことです。",
+"out": "tts/v/ecrl/s4_0.wav",
+"text": "作用は、シュカンセツのハイクツと、トウクツです。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/temp/s5_0.wav",
-"text": "実は、歯をかみしめると、こめかみに手を当てた所で、ソクトウキンの収縮を感じることができます。",
+"out": "tts/v/ecrl/s5_0.wav",
+"text": "実は、物を強くにぎる時、このきん肉が手首を少し反らして固定することで、にぎる力が出しやすくなります。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/temp/s6_0.wav",
-"text": "サンサシンケイが支配し、クイシバリが続くと、頭痛やガクカンセツショウに関わることもあります。",
+"out": "tts/v/ecrl/s6_0.wav",
+"text": "トウコツ神経が支配し、トウコツ神経麻痺では、手首が下がるカスイシュになり、にぎる力も弱くなります。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/temp/s7_0.wav",
-"text": "ソクトウキンは、こめかみからシタアゴへ。",
+"out": "tts/v/ecrl/s7_0.wav",
+"text": "チョウトウソクシュコンシンキンは、ジョウワンコツのがいそくからひとさしゆびの付け根へ。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/temp/s7_1.wav",
-"text": "口を閉じる時に働く、かむためのきん肉です。",
+"out": "tts/v/ecrl/s7_1.wav",
+"text": "にぎる時の、手首の支えです。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/temp/s8_0.wav",
+"out": "tts/v/ecrl/s8_0.wav",
 "text": "臨床の勉強をしながら、エーアイで動画を作り、収益化する。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
@@ -944,7 +944,7 @@
 "intonation": 1.15
 },
 {
-"out": "tts/v/temp/s8_1.wav",
+"out": "tts/v/ecrl/s8_1.wav",
 "text": "この動画のサクセイホウホウ、使用しているエーアイ、収益化の方法を知りたい方は、プロフィールリンクまで。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
