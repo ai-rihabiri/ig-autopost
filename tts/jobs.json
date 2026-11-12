@@ -1,86 +1,86 @@
 [
 {
-"out": "tts/v/ehl/s0_0.wav",
-"text": "いっぷんでかいせつ、チョウボシシンキン。",
+"out": "tts/v/infty/s0_0.wav",
+"text": "いっぷんでかいせつ、ノウコウソクの3つのビョウケイ。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/ehl/s0_1.wav",
-"text": "腰の神経を調べる時に使う、足のきん肉を知っていますか？",
+"out": "tts/v/infty/s0_1.wav",
+"text": "ビョウケイによって、何が違うか説明できますか？",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/ehl/s1_0.wav",
-"text": "チョウボシシンキンは、ゼンケイコツキンとチョウシシンキンの間の、深いところにあるきん肉です。",
+"out": "tts/v/infty/s1_0.wav",
+"text": "ノウコウソクは、主にアテロームケッセンセイ、シンゲンセイ、ラクナの、3つのビョウケイに分けられます。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/ehl/s2_0.wav",
-"text": "起始は、ヒコツの前面のチュウオウと、カタイコツカンマクです。",
+"out": "tts/v/infty/s2_0.wav",
+"text": "アテロームケッセンセイノウコウソクは、太い血管の動脈硬化で血管が狭くなり、そこにケッセンができて詰まるタイプです。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/ehl/s3_0.wav",
-"text": "停止は、アシのオヤユビの、マッセツコツの底です。",
+"out": "tts/v/infty/s3_0.wav",
+"text": "シンゲンセイノウソクセンショウは、シンボウ細動などで心臓にできたケッセンが流れて、脳の血管を突然詰まらせるタイプです。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/ehl/s4_0.wav",
-"text": "作用は、アシのオヤユビのシンテンと、そくかんせつのハイクツです。",
+"out": "tts/v/infty/s4_0.wav",
+"text": "実は、ラクナコウソクは、脳の細い血管が詰まる、直径イッテンゴセンチ未満の小さな梗塞で、高血圧と関係が深いとされています。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/ehl/s5_0.wav",
-"text": "実は、主にダイゴヨウシンケイが関わるため、腰の神経の評価によく使われます。",
+"out": "tts/v/infty/s5_0.wav",
+"text": "ビョウケイによって、症状の変動や、再発、出血のリスクなど、注意点が変わります。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/ehl/s6_0.wav",
-"text": "ヨウツイツイカンバンヘルニアなどでは、アシのオヤユビを上げる力の、左右差を確認します。",
+"out": "tts/v/infty/s6_0.wav",
+"text": "リハビリの前には、カルテでビョウケイと部位、大きさを確認し、医師の指示を確かめましょう。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/ehl/s7_0.wav",
-"text": "チョウボシシンキンは、すねからアシのオヤユビへ。",
+"out": "tts/v/infty/s7_0.wav",
+"text": "ビョウケイを知ると、原因と注意点が見えてきます。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/ehl/s7_1.wav",
-"text": "アシのオヤユビで、腰の神経もみるきん肉です。",
+"out": "tts/v/infty/s7_1.wav",
+"text": "リスク管理に役立てましょう。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/ehl/s8_0.wav",
+"out": "tts/v/infty/s8_0.wav",
 "text": "臨床の勉強をしながら、エーアイで動画を作り、収益化する。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
@@ -88,7 +88,7 @@
 "intonation": 1.15
 },
 {
-"out": "tts/v/ehl/s8_1.wav",
+"out": "tts/v/infty/s8_1.wav",
 "text": "この動画のサクセイホウホウ、使用しているエーアイ、収益化の方法を知りたい方は、プロフィールリンクまで。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
@@ -96,87 +96,79 @@
 "intonation": 1.15
 },
 {
-"out": "tts/v/gmax/s0_0.wav",
-"text": "いっぷんでかいせつ、ダイデンキン。",
+"out": "tts/v/sah/s0_0.wav",
+"text": "いっぷんでかいせつ、クモマッカシュッケツ。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/gmax/s0_1.wav",
-"text": "立ち上がりや、階段で活躍するきん肉を知っていますか？",
+"out": "tts/v/sah/s0_1.wav",
+"text": "発症後に、とくに注意が必要な時期を知っていますか？",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/gmax/s1_0.wav",
-"text": "ダイデンキンは、お尻の表面にある、いちばん大きなきん肉です。",
+"out": "tts/v/sah/s1_0.wav",
+"text": "クモマッカシュッケツは、脳の表面に起こる出血で、多くはノウドウミャクリュウの破裂が原因で、突然の激しい頭痛が特徴です。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/gmax/s2_0.wav",
-"text": "起始は、ちょうこつの後面と、センコツ、ビコツです。",
+"out": "tts/v/sah/s2_0.wav",
+"text": "治療では、再出血を防ぐために、クリッピングやコイルソクセンジュツが行われます。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/gmax/s3_0.wav",
-"text": "停止は、大腿骨のデンキンソメンと、チョウケイジンタイです。",
+"out": "tts/v/sah/s3_0.wav",
+"text": "その後、脳の血管が縮んで血流が減る、ノウケッカンレンシュクが起こり、ノウコウソクにつながることがあります。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/gmax/s4_0.wav",
-"text": "作用は、コカンセツのシンテンと、ガイセンです。",
+"out": "tts/v/sah/s4_0.wav",
+"text": "実は、ノウケッカンレンシュクは、発症からヨッカメごろから2週間ごろに起こりやすく、この時期はとくに注意が必要です。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/gmax/s5_0.wav",
-"text": "実は、体の中で最も大きなきん肉のひとつで、立ち上がりや階段を上る時に、大きな力を出します。",
+"out": "tts/v/sah/s5_0.wav",
+"text": "リハビリ中は、意識、麻痺、言葉、頭痛などの変化を、こまめに確認します。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/gmax/s6_0.wav",
-"text": "カデンシンケイが支配し、弱くなると、体を後ろに反らして歩く、ダイデンキン歩行になることがあります。",
+"out": "tts/v/sah/s6_0.wav",
+"text": "医師の指示のもとで進め、血圧や意識に変化があれば、すぐに中止して報告しましょう。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/gmax/s7_0.wav",
-"text": "ダイデンキンは、骨盤の後ろから大腿骨へ。",
+"out": "tts/v/sah/s7_0.wav",
+"text": "時期を意識することが、安全な早期リハビリにつながります。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/gmax/s7_1.wav",
-"text": "立つ、上るを支えるきん肉です。",
-"speaker": "春日部つむぎ",
-"style": "ノーマル",
-"speed": 1.12,
-"intonation": 1.15
-},
-{
-"out": "tts/v/gmax/s8_0.wav",
+"out": "tts/v/sah/s8_0.wav",
 "text": "臨床の勉強をしながら、エーアイで動画を作り、収益化する。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
@@ -184,7 +176,7 @@
 "intonation": 1.15
 },
 {
-"out": "tts/v/gmax/s8_1.wav",
+"out": "tts/v/sah/s8_1.wav",
 "text": "この動画のサクセイホウホウ、使用しているエーアイ、収益化の方法を知りたい方は、プロフィールリンクまで。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
@@ -192,87 +184,87 @@
 "intonation": 1.15
 },
 {
-"out": "tts/v/gmed/s0_0.wav",
-"text": "いっぷんでかいせつ、チュウデンキン。",
+"out": "tts/v/inph/s0_0.wav",
+"text": "いっぷんでかいせつ、セイジョウアツスイトウショウ。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/gmed/s0_1.wav",
-"text": "片足立ちを支えるきん肉を、知っていますか？",
+"out": "tts/v/inph/s0_1.wav",
+"text": "治る認知症と呼ばれる病気を知っていますか？",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/gmed/s1_0.wav",
-"text": "チュウデンキンは、お尻の横、骨盤のがいそくにあるきん肉です。",
+"out": "tts/v/inph/s1_0.wav",
+"text": "セイジョウアツスイトウショウは、脳の中のノウシツにズイエキがたまる病気で、高齢者に多くみられます。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/gmed/s2_0.wav",
-"text": "起始は、ちょうこつの外面です。",
+"out": "tts/v/inph/s2_0.wav",
+"text": "主な症状は、歩行障害、認知機能の低下、ニョウシッキンの3つです。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/gmed/s3_0.wav",
-"text": "停止は、大腿骨のダイテンシです。",
+"out": "tts/v/inph/s3_0.wav",
+"text": "歩き方は、コキザミですり足になり、足を開いて歩くのが特徴です。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/gmed/s4_0.wav",
-"text": "作用は、コカンセツのガイテンです。",
+"out": "tts/v/inph/s4_0.wav",
+"text": "実は、シャント手術で症状が改善することがあり、治る認知症とも呼ばれています。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/gmed/s5_0.wav",
-"text": "実は、歩く時や片足立ちの時に、骨盤を水平に保つ、とても大切な働きをしています。",
+"out": "tts/v/inph/s5_0.wav",
+"text": "評価では、ティーユージーや歩行速度、認知機能を、手術の前と後で比べます。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/gmed/s6_0.wav",
-"text": "ジョウデンシンケイが支配し、弱くなると、はんたいそくの骨盤が下がる、トレンデレンブルグ徴候がみられます。",
+"out": "tts/v/inph/s6_0.wav",
+"text": "歩き方の変化、もの忘れや意欲の低下、トイレの失敗が重なる時は、注意が必要です。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/gmed/s7_0.wav",
-"text": "チュウデンキンは、骨盤の横からダイテンシへ。",
+"out": "tts/v/inph/s7_0.wav",
+"text": "歩行の変化は、大切なサインです。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/gmed/s7_1.wav",
-"text": "片足立ちで、骨盤を支えるきん肉です。",
+"out": "tts/v/inph/s7_1.wav",
+"text": "歩行、認知、ハイニョウをセットで見ましょう。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/gmed/s8_0.wav",
+"out": "tts/v/inph/s8_0.wav",
 "text": "臨床の勉強をしながら、エーアイで動画を作り、収益化する。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
@@ -280,7 +272,7 @@
 "intonation": 1.15
 },
 {
-"out": "tts/v/gmed/s8_1.wav",
+"out": "tts/v/inph/s8_1.wav",
 "text": "この動画のサクセイホウホウ、使用しているエーアイ、収益化の方法を知りたい方は、プロフィールリンクまで。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
@@ -288,87 +280,87 @@
 "intonation": 1.15
 },
 {
-"out": "tts/v/abh/s0_0.wav",
-"text": "いっぷんでかいせつ、ボシガイテンキン。",
+"out": "tts/v/gout/s0_0.wav",
+"text": "いっぷんでかいせつ、ツウフウ。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/abh/s0_1.wav",
-"text": "つちふまずを支える、足のきん肉を知っていますか？",
+"out": "tts/v/gout/s0_1.wav",
+"text": "アシのオヤユビの付け根が、突然激しく痛む病気を知っていますか？",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/abh/s1_0.wav",
-"text": "ボシガイテンキンは、足の内側のフチにそってあるきん肉です。",
+"out": "tts/v/gout/s1_0.wav",
+"text": "ツウフウは、血液中のニョウサンチが高い状態が続き、ニョウサンの結晶が関節にたまって起こる関節炎です。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/abh/s2_0.wav",
-"text": "起始は、ショウコツリュウキのナイソクトッキなどです。",
+"out": "tts/v/gout/s2_0.wav",
+"text": "よく起こる場所は、アシのオヤユビの付け根で、足首やひざにも起こります。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/abh/s3_0.wav",
-"text": "停止は、アシのオヤユビの、キセツコツの底の内側です。",
+"out": "tts/v/gout/s3_0.wav",
+"text": "突然の激しい痛みとともに、関節が赤く腫れて、熱を持つのが特徴です。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/abh/s4_0.wav",
-"text": "作用は、アシのオヤユビのガイテンと、屈曲です。",
+"out": "tts/v/gout/s4_0.wav",
+"text": "実は、よく似た偽ツウフウは、ピロリンサンカルシウムの結晶によるもので、ひざに多いとされています。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/abh/s5_0.wav",
-"text": "実は、内側のタテアーチを下から支えていて、がいはんぼしでは、働きにくくなるとされています。",
+"out": "tts/v/gout/s5_0.wav",
+"text": "発作の時は、安静にして冷やし、医師の治療を優先します。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/abh/s6_0.wav",
-"text": "ナイソクソクテイシンケイが支配し、足指じゃんけんなどで、足の指を動かす練習が役立ちます。",
+"out": "tts/v/gout/s6_0.wav",
+"text": "予防には、水分をとること、食事やアルコールの見直しが大切です。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/abh/s7_0.wav",
-"text": "ボシガイテンキンは、かかとからアシのオヤユビへ。",
+"out": "tts/v/gout/s7_0.wav",
+"text": "ツウフウは、生活習慣とも深く関わります。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/abh/s7_1.wav",
-"text": "つちふまずを、下から支えるきん肉です。",
+"out": "tts/v/gout/s7_1.wav",
+"text": "再発予防も、あわせて考えましょう。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/abh/s8_0.wav",
+"out": "tts/v/gout/s8_0.wav",
 "text": "臨床の勉強をしながら、エーアイで動画を作り、収益化する。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
@@ -376,7 +368,7 @@
 "intonation": 1.15
 },
 {
-"out": "tts/v/abh/s8_1.wav",
+"out": "tts/v/gout/s8_1.wav",
 "text": "この動画のサクセイホウホウ、使用しているエーアイ、収益化の方法を知りたい方は、プロフィールリンクまで。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
@@ -384,87 +376,79 @@
 "intonation": 1.15
 },
 {
-"out": "tts/v/fdl/s0_0.wav",
-"text": "いっぷんでかいせつ、チョウシクッキン。",
+"out": "tts/v/dem4/s0_0.wav",
+"text": "いっぷんでかいせつ、認知症の4つのタイプ。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/fdl/s0_1.wav",
-"text": "足の指で、地面をつかむきん肉を知っていますか？",
+"out": "tts/v/dem4/s0_1.wav",
+"text": "タイプによって、症状が違うことを知っていますか？",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/fdl/s1_0.wav",
-"text": "チョウシクッキンは、すねの後ろの、深いところにあるきん肉です。",
+"out": "tts/v/dem4/s1_0.wav",
+"text": "認知症の主なタイプは、アルツハイマー型、レビーショウタイガタ、ケッカンセイ、ゼントウソクトウガタの4つです。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/fdl/s2_0.wav",
-"text": "起始は、けいこつの後面です。",
+"out": "tts/v/dem4/s2_0.wav",
+"text": "アルツハイマー型は最も多いタイプで、もの忘れから始まり、ゆっくり進むことが多いです。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/fdl/s3_0.wav",
-"text": "停止は、ひとさしゆびから小指までの、足の指のマッセツコツの底です。",
+"out": "tts/v/dem4/s3_0.wav",
+"text": "レビーショウタイガタは、ゲンシやパーキンソン症状がみられ、日によって調子に波があるのが特徴です。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/fdl/s4_0.wav",
-"text": "作用は、足の指の屈曲と、そくかんせつのテイクツです。",
+"out": "tts/v/dem4/s4_0.wav",
+"text": "実は、ケッカンセイはノウソッチュウと関係して段階的に進み、ゼントウソクトウガタは、性格や行動の変化が目立ちます。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/fdl/s5_0.wav",
-"text": "実は、ウチクルブシの後ろを通って足の裏へ回り、足の指で地面をつかんで、バランスを保つのに役立ちます。",
+"out": "tts/v/dem4/s5_0.wav",
+"text": "レビーショウタイガタでは転倒に、ケッカンセイでは再発予防に、とくに注意が必要です。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/fdl/s6_0.wav",
-"text": "ケイコツシンケイが支配し、足の指で握る力は、転倒予防の視点でも評価されます。",
+"out": "tts/v/dem4/s6_0.wav",
+"text": "できることを活かし、環境を整え、安心できる声かけで関わりましょう。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/fdl/s7_0.wav",
-"text": "チョウシクッキンは、すねの後ろから足の指へ。",
+"out": "tts/v/dem4/s7_0.wav",
+"text": "タイプを知ると、症状の理由が見え、関わり方が変わります。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/fdl/s7_1.wav",
-"text": "足の指で、体を支えるきん肉です。",
-"speaker": "春日部つむぎ",
-"style": "ノーマル",
-"speed": 1.12,
-"intonation": 1.15
-},
-{
-"out": "tts/v/fdl/s8_0.wav",
+"out": "tts/v/dem4/s8_0.wav",
 "text": "臨床の勉強をしながら、エーアイで動画を作り、収益化する。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
@@ -472,7 +456,7 @@
 "intonation": 1.15
 },
 {
-"out": "tts/v/fdl/s8_1.wav",
+"out": "tts/v/dem4/s8_1.wav",
 "text": "この動画のサクセイホウホウ、使用しているエーアイ、収益化の方法を知りたい方は、プロフィールリンクまで。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
@@ -480,87 +464,87 @@
 "intonation": 1.15
 },
 {
-"out": "tts/v/mtrap/s0_0.wav",
-"text": "いっぷんでかいせつ、チュウブソウボウキン。",
+"out": "tts/v/dfx/s0_0.wav",
+"text": "いっぷんでかいせつ、そくかんせつのハイクツセイゲン。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/mtrap/s0_1.wav",
-"text": "けんこうこつを寄せる、背中のきん肉を知っていますか？",
+"out": "tts/v/dfx/s0_1.wav",
+"text": "しゃがめないのは、足首のせいかもしれないことを知っていますか？",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/mtrap/s1_0.wav",
-"text": "チュウブソウボウキンは、背中に広がるソウボウキンの、真ん中の部分です。",
+"out": "tts/v/dfx/s1_0.wav",
+"text": "ハイクツセイゲンとは、足首が上に曲がりにくく、すねが前に倒れにくい状態です。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/mtrap/s2_0.wav",
-"text": "起始は、ダイナナケイツイからダイサンキョウツイあたりの、キョクトッキです。",
+"out": "tts/v/dfx/s2_0.wav",
+"text": "主な原因は、ふくらはぎのきん肉の硬さ、関節の硬さ、骨の変形や痛みなどです。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/mtrap/s3_0.wav",
-"text": "停止は、ケンポウと、ケンコウキョクです。",
+"out": "tts/v/dfx/s3_0.wav",
+"text": "しゃがめない、立ち上がりで後ろに倒れそうになる、階段を下りにくいなどの問題につながります。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/mtrap/s4_0.wav",
-"text": "作用は、けんこうこつを背骨に寄せる、ナイテンです。",
+"out": "tts/v/dfx/s4_0.wav",
+"text": "実は、ひざを伸ばした時と曲げた時で比べると、ヒフクキンの硬さか、ヒラメキンや関節の硬さかを見分けやすくなります。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/mtrap/s5_0.wav",
-"text": "実は、ねこぜや巻き肩の姿勢が続くと、引き伸ばされて弱くなりやすいきん肉です。",
+"out": "tts/v/dfx/s5_0.wav",
+"text": "評価では、ハイクツの角度、左右差、実際の動作を確認します。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/mtrap/s6_0.wav",
-"text": "フクシンケイが支配し、うつ伏せで腕を横に上げる運動などで、鍛えることができます。",
+"out": "tts/v/dfx/s6_0.wav",
+"text": "ストレッチや関節の動きの練習に加えて、だんさや靴の調整も役立ちます。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/mtrap/s7_0.wav",
-"text": "チュウブソウボウキンは、背骨からけんこうこつへ。",
+"out": "tts/v/dfx/s7_0.wav",
+"text": "足首は、しゃがむ、立つ、歩くの土台です。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/mtrap/s7_1.wav",
-"text": "けんこうこつを寄せて、姿勢を整えるきん肉です。",
+"out": "tts/v/dfx/s7_1.wav",
+"text": "動作とつなげて評価しましょう。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/mtrap/s8_0.wav",
+"out": "tts/v/dfx/s8_0.wav",
 "text": "臨床の勉強をしながら、エーアイで動画を作り、収益化する。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
@@ -568,7 +552,7 @@
 "intonation": 1.15
 },
 {
-"out": "tts/v/mtrap/s8_1.wav",
+"out": "tts/v/dfx/s8_1.wav",
 "text": "この動画のサクセイホウホウ、使用しているエーアイ、収益化の方法を知りたい方は、プロフィールリンクまで。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
@@ -576,87 +560,79 @@
 "intonation": 1.15
 },
 {
-"out": "tts/v/io/s0_0.wav",
-"text": "いっぷんでかいせつ、ナイフクシャキン。",
+"out": "tts/v/agno/s0_0.wav",
+"text": "いっぷんでかいせつ、シツニン。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/io/s0_1.wav",
-"text": "体をひねる時の、きん肉の組み合わせを知っていますか？",
+"out": "tts/v/agno/s0_1.wav",
+"text": "見えているのに、それが何かわからない症状を知っていますか？",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/io/s1_0.wav",
-"text": "ナイフクシャキンは、わき腹で、ガイフクシャキンの奥にあるきん肉です。",
+"out": "tts/v/agno/s1_0.wav",
+"text": "シツニンとは、見る、聞く、触るなどの感覚は保たれているのに、それが何かわからない状態です。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/io/s2_0.wav",
-"text": "起始は、キョウヨウキンマクと、チョウコツリョウ、ソケイジンタイです。",
+"out": "tts/v/agno/s2_0.wav",
+"text": "主なタイプには、視覚シツニン、相貌シツニン、聴覚シツニンなどがあります。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/io/s3_0.wav",
-"text": "停止は、カイのろっこつと、フクチョクキンショウです。",
+"out": "tts/v/agno/s3_0.wav",
+"text": "視覚シツニンでは、見ても物の名前がわからないのに、触るとわかることがあります。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/io/s4_0.wav",
-"text": "作用は、体幹の屈曲と、おなじがわへの回旋です。",
+"out": "tts/v/agno/s4_0.wav",
+"text": "実は、相貌シツニンでは、顔を見ても誰かわからないため、声や服装で人を見分けていることがあります。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/io/s5_0.wav",
-"text": "実は、体をひねる時は、おなじがわのナイフクシャキンと、はんたいそくのガイフクシャキンが、組んで働きます。",
+"out": "tts/v/agno/s5_0.wav",
+"text": "評価では、見る、触る、聞くで結果を比べ、視力や言葉の障害と区別します。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/io/s6_0.wav",
-"text": "せきをする、息を吐く、ハイベンなどでお腹の圧を高め、体幹を安定させる働きもあります。",
+"out": "tts/v/agno/s6_0.wav",
+"text": "触って確認する、声で名乗る、物の置き場所を決めるなどの工夫が役立ちます。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/io/s7_0.wav",
-"text": "ナイフクシャキンは、骨盤からろっこつとお腹の前へ。",
+"out": "tts/v/agno/s7_0.wav",
+"text": "わからない理由を見つけ、使える感覚を活かすことが大切です。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/io/s7_1.wav",
-"text": "ひねる、支える、お腹のきん肉です。",
-"speaker": "春日部つむぎ",
-"style": "ノーマル",
-"speed": 1.12,
-"intonation": 1.15
-},
-{
-"out": "tts/v/io/s8_0.wav",
+"out": "tts/v/agno/s8_0.wav",
 "text": "臨床の勉強をしながら、エーアイで動画を作り、収益化する。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
@@ -664,7 +640,7 @@
 "intonation": 1.15
 },
 {
-"out": "tts/v/io/s8_1.wav",
+"out": "tts/v/agno/s8_1.wav",
 "text": "この動画のサクセイホウホウ、使用しているエーアイ、収益化の方法を知りたい方は、プロフィールリンクまで。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
@@ -672,87 +648,79 @@
 "intonation": 1.15
 },
 {
-"out": "tts/v/lpt/s0_0.wav",
-"text": "いっぷんでかいせつ、ガイソクヨクトツキン。",
+"out": "tts/v/dysph/s0_0.wav",
+"text": "いっぷんでかいせつ、エンゲチョウセイショク。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/lpt/s0_1.wav",
-"text": "口を開ける時に働く、ソシャクキンを知っていますか？",
+"out": "tts/v/dysph/s0_1.wav",
+"text": "飲み込みやすい食事の形を、知っていますか？",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/lpt/s1_0.wav",
-"text": "ガイソクヨクトツキンは、顔の奥の、あごの関節の前にあるきん肉です。",
+"out": "tts/v/dysph/s1_0.wav",
+"text": "エンゲチョウセイショクは、飲み込む力に合わせて、形やかたさを調整した食事で、むせやごえんを防ぎます。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/lpt/s2_0.wav",
-"text": "起始は、チョウケイコツのダイヨクと、ヨクジョウトッキのガイソクバンです。",
+"out": "tts/v/dysph/s2_0.wav",
+"text": "ゼリーやペースト、やわらかい食事など段階があり、学会の分類などが共通の目安になります。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/lpt/s3_0.wav",
-"text": "停止は、カガクケイと、がくかんせつのカンセツエンバンです。",
+"out": "tts/v/dysph/s3_0.wav",
+"text": "食べやすい条件は、まとまりやすく、べたつかず、かたさが均一であることです。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/lpt/s4_0.wav",
-"text": "作用は、シタアゴを前に出すことと、口を開けることです。",
+"out": "tts/v/dysph/s4_0.wav",
+"text": "実は、水分は流れが速く、いちばんむせやすいことも多いため、とろみで流れる速さを調整します。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/lpt/s5_0.wav",
-"text": "実は、口を大きく開ける時、カガクトウを前に引き出して、あごの関節を滑らせる働きをしています。",
+"out": "tts/v/dysph/s5_0.wav",
+"text": "評価では、むせや声の変化、食べる量や時間、疲れやすさを確認します。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/lpt/s6_0.wav",
-"text": "サンサシンケイが支配し、ガクカンセツショウに関わることもあるため、口の開き具合を確認します。",
+"out": "tts/v/dysph/s6_0.wav",
+"text": "食事の形は、医師、げんごちょうかくし、かんりえいようしなどのチームで決めていきます。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/lpt/s7_0.wav",
-"text": "ガイソクヨクトツキンは、頭の骨の奥からシタアゴの関節へ。",
+"out": "tts/v/dysph/s7_0.wav",
+"text": "形を合わせて、安全においしく、食べる楽しみを支えましょう。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/lpt/s7_1.wav",
-"text": "口を開けるための、ソシャクキンです。",
-"speaker": "春日部つむぎ",
-"style": "ノーマル",
-"speed": 1.12,
-"intonation": 1.15
-},
-{
-"out": "tts/v/lpt/s8_0.wav",
+"out": "tts/v/dysph/s8_0.wav",
 "text": "臨床の勉強をしながら、エーアイで動画を作り、収益化する。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
@@ -760,7 +728,7 @@
 "intonation": 1.15
 },
 {
-"out": "tts/v/lpt/s8_1.wav",
+"out": "tts/v/dysph/s8_1.wav",
 "text": "この動画のサクセイホウホウ、使用しているエーアイ、収益化の方法を知りたい方は、プロフィールリンクまで。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
@@ -768,87 +736,87 @@
 "intonation": 1.15
 },
 {
-"out": "tts/v/fpb/s0_0.wav",
-"text": "いっぷんでかいせつ、タンボシクッキン。",
+"out": "tts/v/ausc/s0_0.wav",
+"text": "いっぷんでかいせつ、呼吸音のチョウシン。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/fpb/s0_1.wav",
-"text": "二つの神経が支配する、ボシキュウのきん肉を知っていますか？",
+"out": "tts/v/ausc/s0_1.wav",
+"text": "チョウシンキで、どこを聞けばいいか知っていますか？",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/fpb/s1_0.wav",
-"text": "タンボシクッキンは、親指の付け根のふくらみ、ボシキュウの、小指側寄りにあるきん肉です。",
+"out": "tts/v/ausc/s1_0.wav",
+"text": "チョウシンでは、空気の入り方、痰の有無、左右差などがわかります。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/fpb/s2_0.wav",
-"text": "起始は、クッキンシタイと、ダイリョウケイコツなどです。",
+"out": "tts/v/ausc/s2_0.wav",
+"text": "前、横、背中から、上から下へ順番に、左右を比べながら聞いていきます。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/fpb/s3_0.wav",
-"text": "停止は、親指のキセツコツの底です。",
+"out": "tts/v/ausc/s3_0.wav",
+"text": "正常な呼吸音は、やわらかい空気の流れる音として聞こえます。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/fpb/s4_0.wav",
-"text": "作用は、親指のエムピーカンセツの屈曲です。",
+"out": "tts/v/ausc/s4_0.wav",
+"text": "実は、ヒューヒューと続く音はキドウが狭いこと、パチパチと途切れる音は、痰や肺の変化を示すことがあります。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/fpb/s5_0.wav",
-"text": "実は、せいちゅう神経とシャッコツ神経の、二つの神経に支配されていることが多いきん肉です。",
+"out": "tts/v/ausc/s5_0.wav",
+"text": "リハビリでは、ハイタンや呼吸練習の、前と後で比べることで、効果を確認できます。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/fpb/s6_0.wav",
-"text": "タンボシガイテンキンやボシタイリツキンと協力して、つまむ、にぎるなどの親指の動きを支えます。",
+"out": "tts/v/ausc/s6_0.wav",
+"text": "いつもと違う音は記録し、急な変化はすぐに報告しましょう。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/fpb/s7_0.wav",
-"text": "タンボシクッキンは、手首の近くから親指の付け根へ。",
+"out": "tts/v/ausc/s7_0.wav",
+"text": "チョウシンは、目に見えない肺の情報です。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/fpb/s7_1.wav",
-"text": "ボシキュウをつくるきん肉のひとつです。",
+"out": "tts/v/ausc/s7_1.wav",
+"text": "左右差と変化に注目しましょう。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/fpb/s8_0.wav",
+"out": "tts/v/ausc/s8_0.wav",
 "text": "臨床の勉強をしながら、エーアイで動画を作り、収益化する。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
@@ -856,7 +824,7 @@
 "intonation": 1.15
 },
 {
-"out": "tts/v/fpb/s8_1.wav",
+"out": "tts/v/ausc/s8_1.wav",
 "text": "この動画のサクセイホウホウ、使用しているエーアイ、収益化の方法を知りたい方は、プロフィールリンクまで。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
@@ -864,87 +832,87 @@
 "intonation": 1.15
 },
 {
-"out": "tts/v/fdb/s0_0.wav",
-"text": "いっぷんでかいせつ、タンシクッキン。",
+"out": "tts/v/ecg/s0_0.wav",
+"text": "いっぷんでかいせつ、シンデンズの基本。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/fdb/s0_1.wav",
-"text": "足の裏のチュウオウにあるきん肉を、知っていますか？",
+"out": "tts/v/ecg/s0_1.wav",
+"text": "モニターの波形の意味が、わかりますか？",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/fdb/s1_0.wav",
-"text": "タンシクッキンは、足の裏のチュウオウで、ソクテイケンマクのスグウエにあるきん肉です。",
+"out": "tts/v/ecg/s1_0.wav",
+"text": "シンデンズは、心臓の電気の流れを記録したもので、ピーハ、キューアールエスハ、ティーハでできています。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/fdb/s2_0.wav",
-"text": "起始は、ショウコツリュウキと、ソクテイケンマクです。",
+"out": "tts/v/ecg/s2_0.wav",
+"text": "ピーハはシンボウの興奮、キューアールエスハはシンシツの興奮、ティーハはシンシツの回復を表しています。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/fdb/s3_0.wav",
-"text": "停止は、ひとさしゆびから小指までの、足の指のチュウセツコツです。",
+"out": "tts/v/ecg/s3_0.wav",
+"text": "まずは、心拍数、リズム、波の形の3つを見ることから始めましょう。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/fdb/s4_0.wav",
-"text": "作用は、足の指の屈曲で、主にピーアイピー関節を曲げます。",
+"out": "tts/v/ecg/s4_0.wav",
+"text": "実は、リハビリ中に脈が急に速くなる、遅くなる、リズムが不規則になるなどの変化は、とくに注意が必要です。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/fdb/s5_0.wav",
-"text": "実は、ソクテイケンマクのスグウエにあり、足のアーチを支える働きもあるとされています。",
+"out": "tts/v/ecg/s5_0.wav",
+"text": "例えば、シンボウ細動では、ピーハがはっきりせず、リズムがバラバラになります。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/fdb/s6_0.wav",
-"text": "ナイソクソクテイシンケイが支配し、タオルギャザーなど、足の指で床をつかむ運動で鍛えられます。",
+"out": "tts/v/ecg/s6_0.wav",
+"text": "異常に気づいたら、運動を中止し、症状と血圧を確認して、すぐに報告します。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/fdb/s7_0.wav",
-"text": "タンシクッキンは、かかとから足の指へ。",
+"out": "tts/v/ecg/s7_0.wav",
+"text": "すべて読めなくても大丈夫です。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/fdb/s7_1.wav",
-"text": "足の裏から、アーチを支えるきん肉です。",
+"out": "tts/v/ecg/s7_1.wav",
+"text": "心拍数とリズムの変化に、気づけるようになりましょう。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/fdb/s8_0.wav",
+"out": "tts/v/ecg/s8_0.wav",
 "text": "臨床の勉強をしながら、エーアイで動画を作り、収益化する。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
@@ -952,7 +920,7 @@
 "intonation": 1.15
 },
 {
-"out": "tts/v/fdb/s8_1.wav",
+"out": "tts/v/ecg/s8_1.wav",
 "text": "この動画のサクセイホウホウ、使用しているエーアイ、収益化の方法を知りたい方は、プロフィールリンクまで。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
