@@ -1,86 +1,78 @@
 [
 {
-"out": "tts/v/infty/s0_0.wav",
-"text": "いっぷんでかいせつ、ノウコウソクの3つのビョウケイ。",
+"out": "tts/v/jcs/s0_0.wav",
+"text": "いっぷんでかいせつ、ジェーシーエスとジーシーエス。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/infty/s0_1.wav",
-"text": "ビョウケイによって、何が違うか説明できますか？",
+"out": "tts/v/jcs/s0_1.wav",
+"text": "意識レベルを、正しく評価できますか？",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/infty/s1_0.wav",
-"text": "ノウコウソクは、主にアテロームケッセンセイ、シンゲンセイ、ラクナの、3つのビョウケイに分けられます。",
+"out": "tts/v/jcs/s1_0.wav",
+"text": "意識レベルの評価には、ニホンでよく使うジェーシーエスと、世界で使われるジーシーエスがあります。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/infty/s2_0.wav",
-"text": "アテロームケッセンセイノウコウソクは、太い血管の動脈硬化で血管が狭くなり、そこにケッセンができて詰まるタイプです。",
+"out": "tts/v/jcs/s2_0.wav",
+"text": "ジェーシーエスは、刺激なしで目を開けるか、刺激で開けるか、刺激でも開けないかの3段階で、数字が大きいほど重い状態です。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/infty/s3_0.wav",
-"text": "シンゲンセイノウソクセンショウは、シンボウ細動などで心臓にできたケッセンが流れて、脳の血管を突然詰まらせるタイプです。",
+"out": "tts/v/jcs/s3_0.wav",
+"text": "ジーシーエスは、開眼、言葉、運動の3つの項目を点数にして、合計で評価します。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/infty/s4_0.wav",
-"text": "実は、ラクナコウソクは、脳の細い血管が詰まる、直径イッテンゴセンチ未満の小さな梗塞で、高血圧と関係が深いとされています。",
+"out": "tts/v/jcs/s4_0.wav",
+"text": "実は、ジーシーエスは3点からジュウゴテンで、点数が低いほど重い状態のため、ジェーシーエスとは逆なので注意が必要です。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/infty/s5_0.wav",
-"text": "ビョウケイによって、症状の変動や、再発、出血のリスクなど、注意点が変わります。",
+"out": "tts/v/jcs/s5_0.wav",
+"text": "リハビリでは、開始前に毎回確認し、前回との変化を比べます。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/infty/s6_0.wav",
-"text": "リハビリの前には、カルテでビョウケイと部位、大きさを確認し、医師の指示を確かめましょう。",
+"out": "tts/v/jcs/s6_0.wav",
+"text": "意識レベルの低下や、反応がいつもと違う時は、すぐに報告しましょう。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/infty/s7_0.wav",
-"text": "ビョウケイを知ると、原因と注意点が見えてきます。",
+"out": "tts/v/jcs/s7_0.wav",
+"text": "共通の評価を使うことで、チームに変化を正しく伝えられます。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/infty/s7_1.wav",
-"text": "リスク管理に役立てましょう。",
-"speaker": "春日部つむぎ",
-"style": "ノーマル",
-"speed": 1.12,
-"intonation": 1.15
-},
-{
-"out": "tts/v/infty/s8_0.wav",
+"out": "tts/v/jcs/s8_0.wav",
 "text": "臨床の勉強をしながら、エーアイで動画を作り、収益化する。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
@@ -88,7 +80,7 @@
 "intonation": 1.15
 },
 {
-"out": "tts/v/infty/s8_1.wav",
+"out": "tts/v/jcs/s8_1.wav",
 "text": "この動画のサクセイホウホウ、使用しているエーアイ、収益化の方法を知りたい方は、プロフィールリンクまで。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
@@ -96,79 +88,79 @@
 "intonation": 1.15
 },
 {
-"out": "tts/v/sah/s0_0.wav",
-"text": "いっぷんでかいせつ、クモマッカシュッケツ。",
+"out": "tts/v/sias/s0_0.wav",
+"text": "いっぷんでかいせつ、サイアス。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/sah/s0_1.wav",
-"text": "発症後に、とくに注意が必要な時期を知っていますか？",
+"out": "tts/v/sias/s0_1.wav",
+"text": "ノウソッチュウの機能障害を、まとめて評価できる方法を知っていますか？",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/sah/s1_0.wav",
-"text": "クモマッカシュッケツは、脳の表面に起こる出血で、多くはノウドウミャクリュウの破裂が原因で、突然の激しい頭痛が特徴です。",
+"out": "tts/v/sias/s1_0.wav",
+"text": "サイアスは、ノウソッチュウによる機能障害を、短い時間で全体的に評価できる方法です。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/sah/s2_0.wav",
-"text": "治療では、再出血を防ぐために、クリッピングやコイルソクセンジュツが行われます。",
+"out": "tts/v/sias/s2_0.wav",
+"text": "運動機能、きん緊張、感覚、関節可動域、体幹機能などを評価します。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/sah/s3_0.wav",
-"text": "その後、脳の血管が縮んで血流が減る、ノウケッカンレンシュクが起こり、ノウコウソクにつながることがあります。",
+"out": "tts/v/sias/s3_0.wav",
+"text": "項目ごとに点数をつけ、点数が高いほど、良い状態を表します。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/sah/s4_0.wav",
-"text": "実は、ノウケッカンレンシュクは、発症からヨッカメごろから2週間ごろに起こりやすく、この時期はとくに注意が必要です。",
+"out": "tts/v/sias/s4_0.wav",
+"text": "実は、まひそくだけでなく、ヒマヒソクのきんりょくなども評価に含まれているのが特徴です。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/sah/s5_0.wav",
-"text": "リハビリ中は、意識、麻痺、言葉、頭痛などの変化を、こまめに確認します。",
+"out": "tts/v/sias/s5_0.wav",
+"text": "経過を数字で追うことができ、チームで共有しやすい評価です。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/sah/s6_0.wav",
-"text": "医師の指示のもとで進め、血圧や意識に変化があれば、すぐに中止して報告しましょう。",
+"out": "tts/v/sias/s6_0.wav",
+"text": "検査の手順をそろえ、実際の動作の評価とあわせて見ることが大切です。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/sah/s7_0.wav",
-"text": "時期を意識することが、安全な早期リハビリにつながります。",
+"out": "tts/v/sias/s7_0.wav",
+"text": "全体をつかんで目標を立て、再評価で変化を確認しましょう。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/sah/s8_0.wav",
+"out": "tts/v/sias/s8_0.wav",
 "text": "臨床の勉強をしながら、エーアイで動画を作り、収益化する。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
@@ -176,7 +168,7 @@
 "intonation": 1.15
 },
 {
-"out": "tts/v/sah/s8_1.wav",
+"out": "tts/v/sias/s8_1.wav",
 "text": "この動画のサクセイホウホウ、使用しているエーアイ、収益化の方法を知りたい方は、プロフィールリンクまで。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
@@ -184,87 +176,79 @@
 "intonation": 1.15
 },
 {
-"out": "tts/v/inph/s0_0.wav",
-"text": "いっぷんでかいせつ、セイジョウアツスイトウショウ。",
+"out": "tts/v/mas/s0_0.wav",
+"text": "いっぷんでかいせつ、マス。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/inph/s0_1.wav",
-"text": "治る認知症と呼ばれる病気を知っていますか？",
+"out": "tts/v/mas/s0_1.wav",
+"text": "ケイシュクの強さを、どう評価するか知っていますか？",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/inph/s1_0.wav",
-"text": "セイジョウアツスイトウショウは、脳の中のノウシツにズイエキがたまる病気で、高齢者に多くみられます。",
+"out": "tts/v/mas/s1_0.wav",
+"text": "マスは、関節を動かした時の抵抗から、ケイシュクの強さを評価するスケールです。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/inph/s2_0.wav",
-"text": "主な症状は、歩行障害、認知機能の低下、ニョウシッキンの3つです。",
+"out": "tts/v/mas/s2_0.wav",
+"text": "0から4までで、イチプラスを含めたろくだんかいに分けられます。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/inph/s3_0.wav",
-"text": "歩き方は、コキザミですり足になり、足を開いて歩くのが特徴です。",
+"out": "tts/v/mas/s3_0.wav",
+"text": "力を抜いてもらい、関節を一定の速さで動かして、抵抗の出方をみます。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/inph/s4_0.wav",
-"text": "実は、シャント手術で症状が改善することがあり、治る認知症とも呼ばれています。",
+"out": "tts/v/mas/s4_0.wav",
+"text": "実は、ケイシュクは速く動かすほど強くなるため、動かす速さで結果が変わることがあります。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/inph/s5_0.wav",
-"text": "評価では、ティーユージーや歩行速度、認知機能を、手術の前と後で比べます。",
+"out": "tts/v/mas/s5_0.wav",
+"text": "姿勢や時間帯をそろえ、痛みや緊張にも配慮して評価します。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/inph/s6_0.wav",
-"text": "歩き方の変化、もの忘れや意欲の低下、トイレの失敗が重なる時は、注意が必要です。",
+"out": "tts/v/mas/s6_0.wav",
+"text": "経過の確認や治療の効果判定に使い、チームで共有しましょう。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/inph/s7_0.wav",
-"text": "歩行の変化は、大切なサインです。",
+"out": "tts/v/mas/s7_0.wav",
+"text": "条件をそろえ、同じ方法で再評価することが大切です。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/inph/s7_1.wav",
-"text": "歩行、認知、ハイニョウをセットで見ましょう。",
-"speaker": "春日部つむぎ",
-"style": "ノーマル",
-"speed": 1.12,
-"intonation": 1.15
-},
-{
-"out": "tts/v/inph/s8_0.wav",
+"out": "tts/v/mas/s8_0.wav",
 "text": "臨床の勉強をしながら、エーアイで動画を作り、収益化する。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
@@ -272,7 +256,7 @@
 "intonation": 1.15
 },
 {
-"out": "tts/v/inph/s8_1.wav",
+"out": "tts/v/mas/s8_1.wav",
 "text": "この動画のサクセイホウホウ、使用しているエーアイ、収益化の方法を知りたい方は、プロフィールリンクまで。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
@@ -280,87 +264,87 @@
 "intonation": 1.15
 },
 {
-"out": "tts/v/gout/s0_0.wav",
-"text": "いっぷんでかいせつ、ツウフウ。",
+"out": "tts/v/dual/s0_0.wav",
+"text": "いっぷんでかいせつ、ニジュウカダイ。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/gout/s0_1.wav",
-"text": "アシのオヤユビの付け根が、突然激しく痛む病気を知っていますか？",
+"out": "tts/v/dual/s0_1.wav",
+"text": "話しかけると、歩けなくなる人がいるのはなぜか知っていますか？",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/gout/s1_0.wav",
-"text": "ツウフウは、血液中のニョウサンチが高い状態が続き、ニョウサンの結晶が関節にたまって起こる関節炎です。",
+"out": "tts/v/dual/s1_0.wav",
+"text": "ニジュウカダイとは、歩きながら話す、考えるなど、2つのことを同時に行うことです。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/gout/s2_0.wav",
-"text": "よく起こる場所は、アシのオヤユビの付け根で、足首やひざにも起こります。",
+"out": "tts/v/dual/s2_0.wav",
+"text": "高齢者では、ニジュウカダイで歩く速さが遅くなり、ふらつきが大きくなることがあります。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/gout/s3_0.wav",
-"text": "突然の激しい痛みとともに、関節が赤く腫れて、熱を持つのが特徴です。",
+"out": "tts/v/dual/s3_0.wav",
+"text": "評価では、歩きながら計算する、会話する、ティーユージーに課題を加えるなどの方法があります。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/gout/s4_0.wav",
-"text": "実は、よく似た偽ツウフウは、ピロリンサンカルシウムの結晶によるもので、ひざに多いとされています。",
+"out": "tts/v/dual/s4_0.wav",
+"text": "実は、話しかけると立ち止まってしまう人は、転倒しやすいとされています。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/gout/s5_0.wav",
-"text": "発作の時は、安静にして冷やし、医師の治療を優先します。",
+"out": "tts/v/dual/s5_0.wav",
+"text": "練習は、安全な場所で、簡単な課題から少しずつ始めます。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/gout/s6_0.wav",
-"text": "予防には、水分をとること、食事やアルコールの見直しが大切です。",
+"out": "tts/v/dual/s6_0.wav",
+"text": "生活では、歩く時は歩くことに集中し、話す時は立ち止まる工夫も役立ちます。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/gout/s7_0.wav",
-"text": "ツウフウは、生活習慣とも深く関わります。",
+"out": "tts/v/dual/s7_0.wav",
+"text": "生活はニジュウカダイの連続です。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/gout/s7_1.wav",
-"text": "再発予防も、あわせて考えましょう。",
+"out": "tts/v/dual/s7_1.wav",
+"text": "注意の力も、あわせて評価しましょう。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/gout/s8_0.wav",
+"out": "tts/v/dual/s8_0.wav",
 "text": "臨床の勉強をしながら、エーアイで動画を作り、収益化する。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
@@ -368,7 +352,7 @@
 "intonation": 1.15
 },
 {
-"out": "tts/v/gout/s8_1.wav",
+"out": "tts/v/dual/s8_1.wav",
 "text": "この動画のサクセイホウホウ、使用しているエーアイ、収益化の方法を知りたい方は、プロフィールリンクまで。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
@@ -376,79 +360,79 @@
 "intonation": 1.15
 },
 {
-"out": "tts/v/dem4/s0_0.wav",
-"text": "いっぷんでかいせつ、認知症の4つのタイプ。",
+"out": "tts/v/bath/s0_0.wav",
+"text": "いっぷんでかいせつ、入浴動作。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/dem4/s0_1.wav",
-"text": "タイプによって、症状が違うことを知っていますか？",
+"out": "tts/v/bath/s0_1.wav",
+"text": "お風呂場の事故を防ぐポイントを、知っていますか？",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/dem4/s1_0.wav",
-"text": "認知症の主なタイプは、アルツハイマー型、レビーショウタイガタ、ケッカンセイ、ゼントウソクトウガタの4つです。",
+"out": "tts/v/bath/s1_0.wav",
+"text": "入浴動作は、移動、服を脱ぐ、ヨクソウをまたぐ、体を洗うなど、多くの動作の組み合わせです。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/dem4/s2_0.wav",
-"text": "アルツハイマー型は最も多いタイプで、もの忘れから始まり、ゆっくり進むことが多いです。",
+"out": "tts/v/bath/s2_0.wav",
+"text": "よくしつは、すべりやすい、ヨクソウをまたぐ、温度差があるなど、危険の多い場所です。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/dem4/s3_0.wav",
-"text": "レビーショウタイガタは、ゲンシやパーキンソン症状がみられ、日によって調子に波があるのが特徴です。",
+"out": "tts/v/bath/s3_0.wav",
+"text": "ヨクソウの出入りは、座ってまたぐ方法や、手すりを使う方法で、安全性が高まります。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/dem4/s4_0.wav",
-"text": "実は、ケッカンセイはノウソッチュウと関係して段階的に進み、ゼントウソクトウガタは、性格や行動の変化が目立ちます。",
+"out": "tts/v/bath/s4_0.wav",
+"text": "実は、冬の入浴は急な血圧の変化が起こりやすいため、ダツイジョとよくしつを温めておくことが大切です。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/dem4/s5_0.wav",
-"text": "レビーショウタイガタでは転倒に、ケッカンセイでは再発予防に、とくに注意が必要です。",
+"out": "tts/v/bath/s5_0.wav",
+"text": "評価では、工程ごとにできるかを確認し、実際のよくしつの環境も確認します。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/dem4/s6_0.wav",
-"text": "できることを活かし、環境を整え、安心できる声かけで関わりましょう。",
+"out": "tts/v/bath/s6_0.wav",
+"text": "手すり、シャワーチェア、すべり止めなどの道具も役立ちます。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/dem4/s7_0.wav",
-"text": "タイプを知ると、症状の理由が見え、関わり方が変わります。",
+"out": "tts/v/bath/s7_0.wav",
+"text": "環境と動作の両方を見て、安全に気持ちよく入浴できるよう支えましょう。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/dem4/s8_0.wav",
+"out": "tts/v/bath/s8_0.wav",
 "text": "臨床の勉強をしながら、エーアイで動画を作り、収益化する。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
@@ -456,7 +440,7 @@
 "intonation": 1.15
 },
 {
-"out": "tts/v/dem4/s8_1.wav",
+"out": "tts/v/bath/s8_1.wav",
 "text": "この動画のサクセイホウホウ、使用しているエーアイ、収益化の方法を知りたい方は、プロフィールリンクまで。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
@@ -464,87 +448,87 @@
 "intonation": 1.15
 },
 {
-"out": "tts/v/dfx/s0_0.wav",
-"text": "いっぷんでかいせつ、そくかんせつのハイクツセイゲン。",
+"out": "tts/v/groom/s0_0.wav",
+"text": "いっぷんでかいせつ、セイヨウ動作。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/dfx/s0_1.wav",
-"text": "しゃがめないのは、足首のせいかもしれないことを知っていますか？",
+"out": "tts/v/groom/s0_1.wav",
+"text": "身だしなみが、心の健康にもつながることを知っていますか？",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/dfx/s1_0.wav",
-"text": "ハイクツセイゲンとは、足首が上に曲がりにくく、すねが前に倒れにくい状態です。",
+"out": "tts/v/groom/s1_0.wav",
+"text": "セイヨウ動作は、歯みがき、洗顔、整髪、ひげそりや化粧など、身だしなみを整える動作です。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/dfx/s2_0.wav",
-"text": "主な原因は、ふくらはぎのきん肉の硬さ、関節の硬さ、骨の変形や痛みなどです。",
+"out": "tts/v/groom/s2_0.wav",
+"text": "手を顔や頭まで上げる動きや、細かい指の動きが必要になります。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/dfx/s3_0.wav",
-"text": "しゃがめない、立ち上がりで後ろに倒れそうになる、階段を下りにくいなどの問題につながります。",
+"out": "tts/v/groom/s3_0.wav",
+"text": "立ったまま行うより、座って行うことで、安全に取り組みやすくなります。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/dfx/s4_0.wav",
-"text": "実は、ひざを伸ばした時と曲げた時で比べると、ヒフクキンの硬さか、ヒラメキンや関節の硬さかを見分けやすくなります。",
+"out": "tts/v/groom/s4_0.wav",
+"text": "実は、身だしなみを整えることは、自信や意欲、人と会う気持ちにもつながるとされています。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/dfx/s5_0.wav",
-"text": "評価では、ハイクツの角度、左右差、実際の動作を確認します。",
+"out": "tts/v/groom/s5_0.wav",
+"text": "評価では、どの工程で困っているか、疲れやすさや姿勢を確認します。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/dfx/s6_0.wav",
-"text": "ストレッチや関節の動きの練習に加えて、だんさや靴の調整も役立ちます。",
+"out": "tts/v/groom/s6_0.wav",
+"text": "柄の長いブラシ、太い持ち手、電動歯ブラシなどの道具も役立ちます。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/dfx/s7_0.wav",
-"text": "足首は、しゃがむ、立つ、歩くの土台です。",
+"out": "tts/v/groom/s7_0.wav",
+"text": "セイヨウは、その人らしさを支える動作です。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/dfx/s7_1.wav",
-"text": "動作とつなげて評価しましょう。",
+"out": "tts/v/groom/s7_1.wav",
+"text": "できる方法を、一緒に探しましょう。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/dfx/s8_0.wav",
+"out": "tts/v/groom/s8_0.wav",
 "text": "臨床の勉強をしながら、エーアイで動画を作り、収益化する。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
@@ -552,7 +536,7 @@
 "intonation": 1.15
 },
 {
-"out": "tts/v/dfx/s8_1.wav",
+"out": "tts/v/groom/s8_1.wav",
 "text": "この動画のサクセイホウホウ、使用しているエーアイ、収益化の方法を知りたい方は、プロフィールリンクまで。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
@@ -560,79 +544,79 @@
 "intonation": 1.15
 },
 {
-"out": "tts/v/agno/s0_0.wav",
-"text": "いっぷんでかいせつ、シツニン。",
+"out": "tts/v/ltci/s0_0.wav",
+"text": "いっぷんでかいせつ、カイゴホケンとリハビリ。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/agno/s0_1.wav",
-"text": "見えているのに、それが何かわからない症状を知っていますか？",
+"out": "tts/v/ltci/s0_1.wav",
+"text": "退院した後のリハビリを、どう続けるか知っていますか？",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/agno/s1_0.wav",
-"text": "シツニンとは、見る、聞く、触るなどの感覚は保たれているのに、それが何かわからない状態です。",
+"out": "tts/v/ltci/s1_0.wav",
+"text": "カイゴホケンは、介護が必要な人を社会全体で支える制度で、主に65歳以上の人が対象です。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/agno/s2_0.wav",
-"text": "主なタイプには、視覚シツニン、相貌シツニン、聴覚シツニンなどがあります。",
+"out": "tts/v/ltci/s2_0.wav",
+"text": "カイゴホケンでは、訪問リハビリ、通所リハビリ、施設でのリハビリなどが使えます。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/agno/s3_0.wav",
-"text": "視覚シツニンでは、見ても物の名前がわからないのに、触るとわかることがあります。",
+"out": "tts/v/ltci/s3_0.wav",
+"text": "利用までには、申請、ヨウカイゴニンテイ、ケアプランの作成という流れがあります。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/agno/s4_0.wav",
-"text": "実は、相貌シツニンでは、顔を見ても誰かわからないため、声や服装で人を見分けていることがあります。",
+"out": "tts/v/ltci/s4_0.wav",
+"text": "実は、40歳から64歳でも、ノウソッチュウなどのトクテイシッペイがある場合は、対象になることがあります。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/agno/s5_0.wav",
-"text": "評価では、見る、触る、聞くで結果を比べ、視力や言葉の障害と区別します。",
+"out": "tts/v/ltci/s5_0.wav",
+"text": "ケアマネジャーと、生活の目標を共有し、必要なサービスを相談していきます。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/agno/s6_0.wav",
-"text": "触って確認する、声で名乗る、物の置き場所を決めるなどの工夫が役立ちます。",
+"out": "tts/v/ltci/s6_0.wav",
+"text": "手すりや歩行器などの福祉用具、だんさの解消などのじゅうたくかいしゅうにも使えます。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/agno/s7_0.wav",
-"text": "わからない理由を見つけ、使える感覚を活かすことが大切です。",
+"out": "tts/v/ltci/s7_0.wav",
+"text": "病院から地域へ、切れ目なく支えるために、制度を知ることも大切です。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/agno/s8_0.wav",
+"out": "tts/v/ltci/s8_0.wav",
 "text": "臨床の勉強をしながら、エーアイで動画を作り、収益化する。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
@@ -640,7 +624,7 @@
 "intonation": 1.15
 },
 {
-"out": "tts/v/agno/s8_1.wav",
+"out": "tts/v/ltci/s8_1.wav",
 "text": "この動画のサクセイホウホウ、使用しているエーアイ、収益化の方法を知りたい方は、プロフィールリンクまで。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
@@ -648,79 +632,79 @@
 "intonation": 1.15
 },
 {
-"out": "tts/v/dysph/s0_0.wav",
-"text": "いっぷんでかいせつ、エンゲチョウセイショク。",
+"out": "tts/v/okc/s0_0.wav",
+"text": "いっぷんでかいせつ、オーケーシーとシーケーシー。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/dysph/s0_1.wav",
-"text": "飲み込みやすい食事の形を、知っていますか？",
+"out": "tts/v/okc/s0_1.wav",
+"text": "2つの運動の違いを、説明できますか？",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/dysph/s1_0.wav",
-"text": "エンゲチョウセイショクは、飲み込む力に合わせて、形やかたさを調整した食事で、むせやごえんを防ぎます。",
+"out": "tts/v/okc/s1_0.wav",
+"text": "ウンドウレンサには、手足の先が自由に動くオーケーシーと、手足の先が固定されるシーケーシーがあります。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/dysph/s2_0.wav",
-"text": "ゼリーやペースト、やわらかい食事など段階があり、学会の分類などが共通の目安になります。",
+"out": "tts/v/okc/s2_0.wav",
+"text": "オーケーシーの例は、座ってひざを伸ばす運動で、1つのきん肉を集中して鍛えやすいのが特徴です。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/dysph/s3_0.wav",
-"text": "食べやすい条件は、まとまりやすく、べたつかず、かたさが均一であることです。",
+"out": "tts/v/okc/s3_0.wav",
+"text": "シーケーシーの例は、スクワットや立ち上がりで、複数の関節が一緒に動きます。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/dysph/s4_0.wav",
-"text": "実は、水分は流れが速く、いちばんむせやすいことも多いため、とろみで流れる速さを調整します。",
+"out": "tts/v/okc/s4_0.wav",
+"text": "実は、シーケーシーは生活動作に近く、バランスや協調も、同時に練習できるのが利点です。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/dysph/s5_0.wav",
-"text": "評価では、むせや声の変化、食べる量や時間、疲れやすさを確認します。",
+"out": "tts/v/okc/s5_0.wav",
+"text": "痛みや時期に合わせて使い分け、オーケーシーからシーケーシーへ進めることもあります。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/dysph/s6_0.wav",
-"text": "食事の形は、医師、げんごちょうかくし、かんりえいようしなどのチームで決めていきます。",
+"out": "tts/v/okc/s6_0.wav",
+"text": "手術後は医師の指示を確認し、フォームをしっかり確認しましょう。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/dysph/s7_0.wav",
-"text": "形を合わせて、安全においしく、食べる楽しみを支えましょう。",
+"out": "tts/v/okc/s7_0.wav",
+"text": "目的に合わせて、オーケーシーとシーケーシーを組み合わせることが大切です。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/dysph/s8_0.wav",
+"out": "tts/v/okc/s8_0.wav",
 "text": "臨床の勉強をしながら、エーアイで動画を作り、収益化する。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
@@ -728,7 +712,7 @@
 "intonation": 1.15
 },
 {
-"out": "tts/v/dysph/s8_1.wav",
+"out": "tts/v/okc/s8_1.wav",
 "text": "この動画のサクセイホウホウ、使用しているエーアイ、収益化の方法を知りたい方は、プロフィールリンクまで。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
@@ -736,87 +720,79 @@
 "intonation": 1.15
 },
 {
-"out": "tts/v/ausc/s0_0.wav",
-"text": "いっぷんでかいせつ、呼吸音のチョウシン。",
+"out": "tts/v/lever/s0_0.wav",
+"text": "いっぷんでかいせつ、てこの原理。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/ausc/s0_1.wav",
-"text": "チョウシンキで、どこを聞けばいいか知っていますか？",
+"out": "tts/v/lever/s0_1.wav",
+"text": "体の中にも、てこがあることを知っていますか？",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/ausc/s1_0.wav",
-"text": "チョウシンでは、空気の入り方、痰の有無、左右差などがわかります。",
+"out": "tts/v/lever/s1_0.wav",
+"text": "てこには、シテン、リキテン、サヨウテンの3つの点があります。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/ausc/s2_0.wav",
-"text": "前、横、背中から、上から下へ順番に、左右を比べながら聞いていきます。",
+"out": "tts/v/lever/s2_0.wav",
+"text": "体では、関節がシテン、きん肉のつく所がリキテン、重さがかかる所がサヨウテンになります。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/ausc/s3_0.wav",
-"text": "正常な呼吸音は、やわらかい空気の流れる音として聞こえます。",
+"out": "tts/v/lever/s3_0.wav",
+"text": "体にいちばん多いのは、ひじを曲げる動きなどの、第3のてこです。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/ausc/s4_0.wav",
-"text": "実は、ヒューヒューと続く音はキドウが狭いこと、パチパチと途切れる音は、痰や肺の変化を示すことがあります。",
+"out": "tts/v/lever/s4_0.wav",
+"text": "実は、体のてこは、大きな力を出すことより、速く大きく動かすことが得意な仕組みになっています。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/ausc/s5_0.wav",
-"text": "リハビリでは、ハイタンや呼吸練習の、前と後で比べることで、効果を確認できます。",
+"out": "tts/v/lever/s5_0.wav",
+"text": "リハビリでは、重りの位置で負荷が変わり、関節に近いほど軽くなります。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/ausc/s6_0.wav",
-"text": "いつもと違う音は記録し、急な変化はすぐに報告しましょう。",
+"out": "tts/v/lever/s6_0.wav",
+"text": "介助でも、体を近づけて行うことで、小さな力で済むようになります。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/ausc/s7_0.wav",
-"text": "チョウシンは、目に見えない肺の情報です。",
+"out": "tts/v/lever/s7_0.wav",
+"text": "てこを知ると、距離で負荷を調整できるようになります。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/ausc/s7_1.wav",
-"text": "左右差と変化に注目しましょう。",
-"speaker": "春日部つむぎ",
-"style": "ノーマル",
-"speed": 1.12,
-"intonation": 1.15
-},
-{
-"out": "tts/v/ausc/s8_0.wav",
+"out": "tts/v/lever/s8_0.wav",
 "text": "臨床の勉強をしながら、エーアイで動画を作り、収益化する。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
@@ -824,7 +800,7 @@
 "intonation": 1.15
 },
 {
-"out": "tts/v/ausc/s8_1.wav",
+"out": "tts/v/lever/s8_1.wav",
 "text": "この動画のサクセイホウホウ、使用しているエーアイ、収益化の方法を知りたい方は、プロフィールリンクまで。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
@@ -832,87 +808,87 @@
 "intonation": 1.15
 },
 {
-"out": "tts/v/ecg/s0_0.wav",
-"text": "いっぷんでかいせつ、シンデンズの基本。",
+"out": "tts/v/kypho/s0_0.wav",
+"text": "いっぷんでかいせつ、エンパイ。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/ecg/s0_1.wav",
-"text": "モニターの波形の意味が、わかりますか？",
+"out": "tts/v/kypho/s0_1.wav",
+"text": "背中が丸くなると、何が起こるか知っていますか？",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/ecg/s1_0.wav",
-"text": "シンデンズは、心臓の電気の流れを記録したもので、ピーハ、キューアールエスハ、ティーハでできています。",
+"out": "tts/v/kypho/s1_0.wav",
+"text": "エンパイは、背中が丸くなった姿勢のことで、高齢者に多くみられます。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/ecg/s2_0.wav",
-"text": "ピーハはシンボウの興奮、キューアールエスハはシンシツの興奮、ティーハはシンシツの回復を表しています。",
+"out": "tts/v/kypho/s2_0.wav",
+"text": "主な原因は、コツソショウショウ、背中のきんりょく低下、長い座り姿勢などです。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/ecg/s3_0.wav",
-"text": "まずは、心拍数、リズム、波の形の3つを見ることから始めましょう。",
+"out": "tts/v/kypho/s3_0.wav",
+"text": "エンパイになると、バランスが悪くなる、呼吸が浅くなる、飲み込みにくくなるなどの問題が起こりやすくなります。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/ecg/s4_0.wav",
-"text": "実は、リハビリ中に脈が急に速くなる、遅くなる、リズムが不規則になるなどの変化は、とくに注意が必要です。",
+"out": "tts/v/kypho/s4_0.wav",
+"text": "実は、背骨のアッパクコッセツが原因のこともあり、急な背中の痛みには注意が必要です。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/ecg/s5_0.wav",
-"text": "例えば、シンボウ細動では、ピーハがはっきりせず、リズムがバラバラになります。",
+"out": "tts/v/kypho/s5_0.wav",
+"text": "評価では、壁に背中をつけた姿勢や、背骨の曲がり、痛みを確認します。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/ecg/s6_0.wav",
-"text": "異常に気づいたら、運動を中止し、症状と血圧を確認して、すぐに報告します。",
+"out": "tts/v/kypho/s6_0.wav",
+"text": "背中のきんりょくトレーニング、胸のストレッチ、座り方の調整などが役立ちます。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/ecg/s7_0.wav",
-"text": "すべて読めなくても大丈夫です。",
+"out": "tts/v/kypho/s7_0.wav",
+"text": "姿勢は、呼吸、食事、転倒にも影響します。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/ecg/s7_1.wav",
-"text": "心拍数とリズムの変化に、気づけるようになりましょう。",
+"out": "tts/v/kypho/s7_1.wav",
+"text": "生活の質とつなげて考えましょう。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
 "speed": 1.12,
 "intonation": 1.15
 },
 {
-"out": "tts/v/ecg/s8_0.wav",
+"out": "tts/v/kypho/s8_0.wav",
 "text": "臨床の勉強をしながら、エーアイで動画を作り、収益化する。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
@@ -920,7 +896,7 @@
 "intonation": 1.15
 },
 {
-"out": "tts/v/ecg/s8_1.wav",
+"out": "tts/v/kypho/s8_1.wav",
 "text": "この動画のサクセイホウホウ、使用しているエーアイ、収益化の方法を知りたい方は、プロフィールリンクまで。",
 "speaker": "春日部つむぎ",
 "style": "ノーマル",
